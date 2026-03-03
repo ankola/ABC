@@ -95,6 +95,46 @@
     "categoryId": "hindi_movies2",
     "categoryName": "Movies 2"
   },
+    {
+    "id": "44",
+    "name": "Sony Max (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies 3"
+  },
+  {
+    "id": "45",
+    "name": "Sony Max (576p)",
+    "iconUrl": "https://i.imgur.com/LBICKI5.png",
+    "streamUrl": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies 3"
+  },
+  {
+    "id": "46",
+    "name": "Sony Max 2 (576p)",
+    "iconUrl": "https://i.imgur.com/gqUYk6C.png",
+    "streamUrl": "http://103.113.103.202:8001/play/a002/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies 3"
+  },
+  {
+    "id": "47",
+    "name": "Sony Max HD (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
+    "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies 3"
+  },
+   {
+    "id": "53",
+    "name": "Sony Wah (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a01p/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies 3"
+  },
   {
     "id": "13",
     "name": "Colors Rishtey",
@@ -352,38 +392,6 @@
     "categoryName": "Entertainment 2"
   },
   {
-    "id": "44",
-    "name": "Sony Max (576p)",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
-    "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
-    "categoryId": "movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "45",
-    "name": "Sony Max (576p)",
-    "iconUrl": "https://i.imgur.com/LBICKI5.png",
-    "streamUrl": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8",
-    "categoryId": "movies",
-    "categoryName": "movies"
-  },
-  {
-    "id": "46",
-    "name": "Sony Max 2 (576p)",
-    "iconUrl": "https://i.imgur.com/gqUYk6C.png",
-    "streamUrl": "http://103.113.103.202:8001/play/a002/index.m3u8",
-    "categoryId": "movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "47",
-    "name": "Sony Max HD (1080p)",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
-    "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
-    "categoryId": "movies",
-    "categoryName": "Movies"
-  },
-  {
     "id": "48",
     "name": "Sony Sports Ten 1 HD (1080p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
@@ -422,14 +430,6 @@
     "streamUrl": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
     "categoryId": "sports",
     "categoryName": "Sports"
-  },
-  {
-    "id": "53",
-    "name": "Sony Wah (576p)",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
-    "streamUrl": "http://103.78.149.54:8000/play/a01p/index.m3u8",
-    "categoryId": "movies",
-    "categoryName": "Movies"
   },
   {
     "id": "54",
