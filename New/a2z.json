@@ -53,7 +53,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF-OvrlzYiwvXB6t2ysLHkEFMtbQh33SaOw&s",
     "streamUrl": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
     "categoryId": "hindi_movies",
-    "categoryName": "Movies2"
+    "categoryName": "Film"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "iconUrl": "https://s1.dmcdn.net/u/9r0ws1eI5LAHH9xdL/240x240",
     "streamUrl": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
     "categoryId": "hindi_movies",
-    "categoryName": "Movies2"
+    "categoryName": "Film"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
     "categoryId": "hindi_movies",
-    "categoryName": "Movies2"
+    "categoryName": "Film"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
     "categoryId": "hindi_movies",
-    "categoryName": "Movies2"
+    "categoryName": "Film"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8",
     "categoryId": "hindi_movies",
-    "categoryName": "Movies2"
+    "categoryName": "Film"
   },
   {
     "id": "12",
@@ -93,7 +93,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
     "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
     "categoryId": "hindi_movies",
-    "categoryName": "Movies2"
+    "categoryName": "Film"
   },
   {
     "id": "13",
