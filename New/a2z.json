@@ -52,48 +52,48 @@
     "name": "Goldmines",
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF-OvrlzYiwvXB6t2ysLHkEFMtbQh33SaOw&s",
     "streamUrl": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Film"
+    "categoryId": "hindi_movies2",
+    "categoryName": "Movies 2"
   },
   {
     "id": "8",
     "name": "Goldmines Movies 2",
     "iconUrl": "https://s1.dmcdn.net/u/9r0ws1eI5LAHH9xdL/240x240",
     "streamUrl": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Film"
+    "categoryId": "hindi_movies2",
+    "categoryName": "Movies 2"
   },
   {
     "id": "9",
     "name": "Hindi Movies",
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Film"
+    "categoryId": "hindi_movies2",
+    "categoryName": "Movies 2"
   },
   {
     "id": "10",
     "name": "Shemaroo Bollywood",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Film"
+    "categoryId": "hindi_movies2",
+    "categoryName": "Movies 2"
   },
   {
     "id": "11",
     "name": "B4U Movies",
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Film"
+    "categoryId": "hindi_movies2",
+    "categoryName": "Movies 2"
   },
   {
     "id": "12",
     "name": "B4U Kadak",
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
     "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Film"
+    "categoryId": "hindi_movies2",
+    "categoryName": "Movies 2"
   },
   {
     "id": "13",
@@ -310,5 +310,133 @@
     "streamUrl": "https://wildearth-plex.amagi.tv/master.m3u8",
     "categoryId": "wildlife",
     "categoryName": "Wild Life"
+  },
+  {
+    "id": "40",
+    "name": "Sony SAB",
+    "iconUrl": "https://yt3.googleusercontent.com/W6hlyHF8FP_YVLnkzBGQYtdpf0hB8pILZvQYw4jMYIqgcGeS1RBTvk9VHUXGk3mDZhhv-26o-zc=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "http://103.229.254.25:7001/play/a09s/index.m3u8",
+    "categoryId": "hindi_entertainment2",
+    "categoryName": "Entertainment 2"
+  },
+  {
+    "id": "41",
+    "name": "Sony SAB HD",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz5zoDQxkS0ATEgJ9abq0m_GgPQXmNHPCyA&s",
+    "streamUrl": "http://103.229.254.25:7001/play/a0db/index.m3u8",
+    "categoryId": "hindi_entertainment2",
+    "categoryName": "Entertainment 2"
+  },
+  {
+    "id": "42",
+    "name": "Sony HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.113.103.202:8001/play/a02z/index.m3u8",
+    "categoryId": "hindi_entertainment2",
+    "categoryName": "Entertainment 2"
+  },
+  {
+    "id": "42",
+    "name": "Sony Channel HD",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",
+    "streamUrl": "http://38.183.182.166:8000/play/a0vg/index.m3u8",
+    "categoryId": "hindi_entertainment2",
+    "categoryName": "Entertainment 2"
+  },
+  {
+    "id": "43",
+    "name": "Sony KAL Hindi (1080p)",
+    "iconUrl": "https://i.imgur.com/9Qq8DKh.png",
+    "streamUrl": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8",
+    "categoryId": "hindi_entertainment2",
+    "categoryName": "Entertainment 2"
+  },
+  {
+    "id": "44",
+    "name": "Sony Max (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "45",
+    "name": "Sony Max (576p)",
+    "iconUrl": "https://i.imgur.com/LBICKI5.png",
+    "streamUrl": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "movies"
+  },
+  {
+    "id": "46",
+    "name": "Sony Max 2 (576p)",
+    "iconUrl": "https://i.imgur.com/gqUYk6C.png",
+    "streamUrl": "http://103.113.103.202:8001/play/a002/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "47",
+    "name": "Sony Max HD (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
+    "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "48",
+    "name": "Sony Sports Ten 1 HD (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.121.6.5:8000/play/a05w/index.m3u8",
+    "categoryId": "sports",
+    "categoryName": "Sports"
+  },
+  {
+    "id": "49",
+    "name": "Sony Sports Ten 2 HD (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a02t/index.m3u8",
+    "categoryId": "sports",
+    "categoryName": "Sports"
+  },
+  {
+    "id": "50",
+    "name": "Sony Sports Ten 3 Hindi (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a09q/index.m3u8",
+    "categoryId": "sports",
+    "categoryName": "Sports"
+  },
+  {
+    "id": "51",
+    "name": "Sony Sports Ten 3 Hindi HD (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://116.90.120.128:8000/play/a0jr/index.m3u88",
+    "categoryId": "sports",
+    "categoryName": "Sports"
+  },
+  {
+    "id": "52",
+    "name": "Sony Sports Ten 5 HD (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+    "categoryId": "sports",
+    "categoryName": "Sports"
+  },
+  {
+    "id": "53",
+    "name": "Sony Wah (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a01p/index.m3u8",
+    "categoryId": "movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "54",
+    "name": "Sony Yay! (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0cl/index.m3u8",
+    "categoryId": "animation_kids",
+    "categoryName": "Animation & Kids"
   }
 ]
