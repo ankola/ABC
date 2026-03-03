@@ -97,7 +97,7 @@
   },
     {
     "id": "44",
-    "name": "Sony Max (576p)",
+    "name": "Sony Max HD (1080p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
     "categoryId": "movies",
