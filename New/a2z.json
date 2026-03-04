@@ -148,24 +148,24 @@
     "name": "Star Utsav Movies (576p)",
     "iconUrl": "https://i.imgur.com/k5QHfH2.png",
     "streamUrl": "http://103.78.149.54:8000/play/a00m/index.m3u8",
-    "categoryId": "hindi_movies4",
-    "categoryName": "Movies 4"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "24938176",
     "name": "Shemaroo Josh (720p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png",
     "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
-    "categoryId": "hindi_movies4",
-    "categoryName": "Movies 4"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "29743618",
     "name": "Surya Movies (576p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/LOGO_HD/image.png",
     "streamUrl": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
-    "categoryId": "hindi_movies4",
-    "categoryName": "Movies 4"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "39175482",
