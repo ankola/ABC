@@ -438,5 +438,269 @@
     "streamUrl": "http://103.229.254.25:7001/play/a0cl/index.m3u8",
     "categoryId": "animation_kids",
     "categoryName": "Animation & Kids"
-  }
+  },
+  {
+    "id": "10000002",
+    "name": "ABP Ganga HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png",
+    "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8",
+    "categoryId": "news2",
+    "categoryName": "News 2"
+  },
+  {
+    "id": "10000003",
+    "name": "ABP News HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png",
+    "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8",
+    "categoryId": "news2",
+    "categoryName": "News 2"
+  },
+  {
+    "id": "10000004",
+    "name": "Awaaz India TV",
+    "iconUrl": "https://i.imgur.com/eKQs51V.png",
+    "streamUrl": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+    "categoryId": "news2",
+    "categoryName": "News 2"
+  },
+  {
+    "id": "10000005",
+    "name": "Bansal News",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png",
+    "streamUrl": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+    "categoryId": "news2",
+    "categoryName": "News 2"
+  },
+  {
+    "id": "10000007",
+    "name": "Good News Today",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY/images/LOGO_HD/image.png",
+    "streamUrl": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+    "categoryId": "news2",
+    "categoryName": "News 2"
+  },
+  {
+    "id": "10000010",
+    "name": "India News",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png",
+    "streamUrl": "https://newsxott.in/hls/indianewsnational.m3u8",
+    "categoryId": "news2",
+    "categoryName": "News 2"
+  },
+  {
+    "id": "10000012",
+    "name": "India TV",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png",
+    "streamUrl": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+    "categoryId": "news3",
+    "categoryName": "News 3"
+  },
+  {
+    "id": "10000013",
+    "name": "India TV Speed News HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS/images/LOGO_HD/image.png",
+    "streamUrl": "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8",
+    "categoryId": "news3",
+    "categoryName": "News 3"
+  },
+  {
+    "id": "10000018",
+    "name": "News18 India HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
+    "categoryId": "news3",
+    "categoryName": "News 3"
+  },
+  {
+    "id": "10000019",
+    "name": "News Daily 24",
+    "iconUrl": "https://i.imgur.com/lT8rihP.png",
+    "streamUrl": "https://cdn-6.pishow.tv/live/10009/master.m3u8",
+    "categoryId": "news3",
+    "categoryName": "News 3"
+  },
+  {
+    "id": "10000020",
+    "name": "News Nation HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_NATION/images/LOGO_HD/image.png",
+    "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+    "categoryId": "news3",
+    "categoryName": "News 3"
+  },
+  {
+    "id": "10000024",
+    "name": "Sudarshan News HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS/images/LOGO_HD/image.png",
+    "streamUrl": "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8",
+    "categoryId": "news3",
+    "categoryName": "News 3"
+  },
+  {
+    "id": "10000026",
+    "name": "Times Now Navbharat HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png",
+    "streamUrl": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
+    "categoryId": "news4",
+    "categoryName": "News 4"
+  },
+  {
+    "id": "10000029",
+    "name": "TV9 Bharatvarsh",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH/images/LOGO_HD/image.png",
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+    "categoryId": "news4",
+    "categoryName": "News 4"
+  },
+  {
+    "id": "10000031",
+    "name": "TV9 HD",
+    "iconUrl": "https://i.imgur.com/QFteAgd.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
+    "categoryId": "news4",
+    "categoryName": "News 4"
+  },
+  {
+    "id": "10000033",
+    "name": "VTV News",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a03m/index.m3u8",
+    "categoryId": "news4",
+    "categoryName": "News 4"
+  },
+  {
+    "id": "10000035",
+    "name": "Zee Bharat",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
+    "categoryId": "news4",
+    "categoryName": "News 4"
+  },
+  {
+    "id": "10000036",
+    "name": "Zee News HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
+    "categoryId": "news4",
+    "categoryName": "News 4"
+  },
+  {
+    "id": "10000034",
+    "name": "Zee 24 Kalak",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_KALAK/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/14b7c8ec-16da-47f2-8d7e-5bbaec67b3e2/3.m3u8",
+    "categoryId": "gujarati_news",
+    "categoryName": "Gujarati News"
+  },
+  {
+    "id": "10000030",
+    "name": "TV9 Gujarati",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_GUJARATI/images/LOGO_HD/image.png",
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8",
+    "categoryId": "gujarati_news",
+    "categoryName": "Gujarati News"
+  },
+  {
+    "id": "10000023",
+    "name": "Sandesh News HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sandesh_News.png",
+    "streamUrl": "https://dkshlpp7ugzua.cloudfront.net/sandeshnews/index.m3u8",
+    "categoryId": "gujarati_news",
+    "categoryName": "Gujarati News"
+  },
+  {
+    "id": "10000017",
+    "name": "News18 Gujarati HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_GUJARATI/images/LOGO_HD/image.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8",
+    "categoryId": "gujarati_news",
+    "categoryName": "Gujarati News"
+  },
+  {
+    "id": "10000011",
+    "name": "India News Gujarati HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png",
+    "streamUrl": "https://newsxott.in/hls/indianewsgujarat.m3u8",
+    "categoryId": "gujarati_news1",
+    "categoryName": "Gujarati News 2"
+  },
+  {
+    "id": "10000008",
+    "name": "GS TV",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/GS_TV.png",
+    "streamUrl": "https://mumt05.tangotv.in/GSTV/index.m3u8",
+    "categoryId": "gujarati_news1",
+    "categoryName": "Gujarati News 2"
+  },
+  {
+    "id": "10000009",
+    "name": "Gujarat First HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",
+    "streamUrl": "https://live.legitpro.co.in/gujaratfirst/index.m3u8",
+    "categoryId": "gujarati_news1",
+    "categoryName": "Gujarati News 2"
+  },
+  {
+    "id": "10000001",
+    "name": "ABP Asmita HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Asmita_logo.svg.png",
+    "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8",
+    "categoryId": "gujarati_news1",
+    "categoryName": "Gujarati News 2"
+  },
+  {
+    "id": "10000028",
+    "name": "TOI Global HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/npnhm84gz9.png",
+    "streamUrl": "https://live.sli.ke/live/npnhm84gz9/master.m3u8",
+    "categoryId": "english_news",
+    "categoryName": "English News"
+  },
+  {
+    "id": "10000021",
+    "name": "NewsX World HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/News_X_World.png",
+    "streamUrl": "https://newsxott.in/hls/newsxworld.m3u8",
+    "categoryId": "english_news",
+    "categoryName": "English News"
+  },
+  {
+    "id": "10000014",
+    "name": "LiveNOW from FOX",
+    "iconUrl": "https://i.imgur.com/1JnyzHv.png",
+    "streamUrl": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "categoryId": "english_news",
+    "categoryName": "English News"
+  },
+  {
+    "id": "10000006",
+    "name": "BBC News HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "streamUrl": "",
+    "categoryId": "english_news",
+    "categoryName": "English News"
+  },
+  {
+    "id": "10000015",
+    "name": "Mirror Now",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MIRROR_NOW/images/LOGO_HD/image.png",
+    "streamUrl": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
+    "categoryId": "english_news2",
+    "categoryName": "English News 2"
+  },
+  {
+    "id": "10000016",
+    "name": "News9Live",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS9/images/LOGO_HD/image.png",
+    "streamUrl": "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8",
+    "categoryId": "english_news2",
+    "categoryName": "English News 2"
+  },
+  {
+    "id": "10000025",
+    "name": "Times Now",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW/images/LOGO_HD/image.png",
+    "streamUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
+    "categoryId": "english_news2",
+    "categoryName": "English News 2"
+  },
 ]
