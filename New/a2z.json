@@ -719,6 +719,46 @@
     "categoryId": "english_news2",
     "categoryName": "English News 2"
   },
+   {
+    "id": "64729183",
+    "name": "Balle Balle (720p)",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
+    "streamUrl": "https://mcncdndigital.com/balleballetv/index.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "37shake19",
+    "name": "BIZ Music (1080p)",
+    "iconUrl": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
+    "streamUrl": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "81364927",
+    "name": "JooMusic (720p)",
+    "iconUrl": "https://i.imgur.com/KHuKQQL.png",
+    "streamUrl": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "53917846",
+    "name": "Zing (576p)",
+    "iconUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png",
+    "streamUrl": "http://161.248.38.40:8000/play/a0ax/index.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "29648371",
+    "name": "Zindagi TV (576p)",
+    "iconUrl": "https://i.imgur.com/XBHvR5J.png",
+    "streamUrl": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
   {
     "id": "21",
     "name": "9XM",
@@ -762,7 +802,7 @@
   {
     "id": "81623749",
     "name": "Shemaroo Filmigaane",
-    "iconUrl": "",
+    "iconUrl": "https://yt3.googleusercontent.com/IZPkATp1E7hxHlLWSCR0mo7dQRgAiV2VV-FBC_F5CUn58SnuzlnKHYG-QhQc105E-g3hXuWmxQ=w544-c-h544-k-c0x00ffffff-no-l90-rj",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8?ads.vf=XvjJifm4b-C",
     "categoryId": "music",
     "categoryName": "Music"
