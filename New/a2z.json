@@ -45,7 +45,7 @@
     "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
     "streamUrl": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "categoryId": "hindi_movies",
-    "categoryName": "hindi_movies"
+    "categoryName": "Movies"
   },
   {
     "id": "6",
@@ -60,88 +60,88 @@
     "name": "Goldmines",
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF-OvrlzYiwvXB6t2ysLHkEFMtbQh33SaOw&s",
     "streamUrl": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
-    "categoryId": "hindi_movies2",
-    "categoryName": "Movies 2"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "8",
     "name": "Goldmines Movies 2",
     "iconUrl": "https://s1.dmcdn.net/u/9r0ws1eI5LAHH9xdL/240x240",
     "streamUrl": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
-    "categoryId": "hindi_movies2",
-    "categoryName": "Movies 2"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "9",
     "name": "Hindi Movies",
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
-    "categoryId": "hindi_movies2",
-    "categoryName": "Movies 2"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "10",
     "name": "Shemaroo Bollywood",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
-    "categoryId": "hindi_movies2",
-    "categoryName": "Movies 2"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "11",
     "name": "B4U Movies",
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8",
-    "categoryId": "hindi_movies2",
-    "categoryName": "Movies 2"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "12",
     "name": "B4U Kadak",
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
     "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
-    "categoryId": "hindi_movies2",
-    "categoryName": "Movies 2"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "44",
     "name": "Sony Max HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
-    "categoryId": "hindi_movies3",
-    "categoryName": "Movies 3"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "45",
     "name": "Sony Max (576p)",
     "iconUrl": "https://i.imgur.com/LBICKI5.png",
     "streamUrl": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8",
-    "categoryId": "hindi_movies3",
-    "categoryName": "Movies 3"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "46",
     "name": "Sony Max 2 (576p)",
     "iconUrl": "https://i.imgur.com/gqUYk6C.png",
     "streamUrl": "http://103.113.103.202:8001/play/a002/index.m3u8",
-    "categoryId": "hindi_movies3",
-    "categoryName": "Movies 3"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "47",
     "name": "Sony Max HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
-    "categoryId": "hindi_movies3",
-    "categoryName": "Movies 3"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "53",
     "name": "Sony Wah (576p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
     "streamUrl": "http://103.78.149.54:8000/play/a01p/index.m3u8",
-    "categoryId": "hindi_movies3",
-    "categoryName": "Movies 3"
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "68392174",
