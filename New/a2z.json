@@ -340,7 +340,7 @@
     "name": "Dangal TV (720p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png",
     "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
-    "categoryId": "entertainment4"
+    "categoryId": "entertainment4",
     "categoryName": "Entertainment 4"
   },
   {
