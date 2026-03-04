@@ -127,7 +127,7 @@
     "categoryId": "hindi_movies3",
     "categoryName": "Movies 3"
   },
-   {
+  {
     "id": "53",
     "name": "Sony Wah (576p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
@@ -135,7 +135,7 @@
     "categoryId": "hindi_movies3",
     "categoryName": "Movies 3"
   },
-   {
+  {
     "id": "68392174",
     "name": "Star Utsav Movies (576p)",
     "iconUrl": "https://i.imgur.com/k5QHfH2.png",
@@ -236,14 +236,6 @@
     "name": "Manoranjan Grand",
     "iconUrl": "https://manoranjantv.com/images/cat/1.jpg",
     "streamUrl": "http://103.175.73.12:8080/live/19/19_0.m3u8",
-    "categoryId": "hindi_entertainment",
-    "categoryName": "Entertainment"
-  },
-   {
-    "id": "54",
-    "name": "Sony Yay! (576p)",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
-    "streamUrl": "http://103.229.254.25:7001/play/a0cl/index.m3u8",
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
   },
@@ -384,14 +376,6 @@
     "categoryName": "Entertainment 5"
   },
   {
-    "id": "84619237",
-    "name": "Sun Neo (576p)",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png",
-    "streamUrl": "http://163.61.227.29:8000/play/a04t/index.m3u8",
-    "categoryId": "entertainment5",
-    "categoryName": "Entertainment 5"
-  },
-   {
     "id": "63827491",
     "name": "Surya TV (1080p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_HD/images/LOGO_HD/image.png",
@@ -399,7 +383,7 @@
     "categoryId": "entertainment5",
     "categoryName": "Entertainment 5"
   },
-   {
+  {
     "id": "72584193",
     "name": "Dabanga TV (1080p)",
     "iconUrl": "https://i.imgur.com/BH1N6TA.png",
@@ -918,6 +902,22 @@
     "streamUrl": "https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8",
     "categoryId": "cartoon",
     "categoryName": "Cartoon"
+  },
+  {
+    "id": "84619237",
+    "name": "Sun Neo (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png",
+    "streamUrl": "http://163.61.227.29:8000/play/a04t/index.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+  {
+    "id": "54",
+    "name": "Sony Yay! (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0cl/index.m3u8",
+    "categoryId": "hindi_entertainment",
+    "categoryName": "Entertainment"
   },
   {
     "id": "38",
