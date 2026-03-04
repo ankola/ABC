@@ -904,6 +904,30 @@
     "categoryName": "Cartoon"
   },
   {
+    "id": "57284931",
+    "name": "Sonic (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
+    "categoryId": "cartoon",
+    "categoryName": "Kids"
+  },
+  {
+    "id": "83619274",
+    "name": "Super Simple Songs (1080p)",
+    "iconUrl": "https://i.imgur.com/3k4F7O9.png",
+    "streamUrl": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8",
+    "categoryId": "cartoon",
+    "categoryName": "Kids"
+  },
+  {
+    "id": "41728536",
+    "name": "Tiny Pop (1080p)",
+    "iconUrl": "https://i.imgur.com/zCTf71x.png",
+    "streamUrl": "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
+    "categoryId": "cartoon",
+    "categoryName": "Kids"
+  },
+  {
     "id": "84619237",
     "name": "Sun Neo (576p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png",
@@ -988,8 +1012,8 @@
     "name": "Anand TV",
     "iconUrl": "https://i.imgur.com/5VOPFzs.png",
     "streamUrl": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
-    "categoryId": "general",
-    "categoryName": "General"
+    "categoryId": "religious",
+    "categoryName": "Religious"
   },
   {
     "id": "96147382",
@@ -1068,8 +1092,8 @@
     "name": "Sadhna Gold",
     "iconUrl": "http://103.78.149.54:8000/play/a01u/index.m3u8",
     "streamUrl": "http://103.78.149.54:8000/play/a01u/index.m3u8",
-    "categoryId": "undefined",
-    "categoryName": "Undefined"
+    "categoryId": "religious",
+    "categoryName": "Religious"
   },
   {
     "id": "94162738",
@@ -1084,8 +1108,8 @@
     "name": "Sanskar TV HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png",
     "streamUrl": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
-    "categoryId": "culture_religious",
-    "categoryName": "Culture; Religious"
+    "categoryId": "religious",
+    "categoryName": "Religious"
   },
   {
     "id": "63817429",
