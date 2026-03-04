@@ -100,7 +100,7 @@
     "name": "Sony Max HD (1080p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
-    "categoryId": "movies",
+    "categoryId": "hindi_movies3",
     "categoryName": "Movies 3"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Sony Max (576p)",
     "iconUrl": "https://i.imgur.com/LBICKI5.png",
     "streamUrl": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8",
-    "categoryId": "movies",
+    "categoryId": "hindi_movies3",
     "categoryName": "Movies 3"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Sony Max 2 (576p)",
     "iconUrl": "https://i.imgur.com/gqUYk6C.png",
     "streamUrl": "http://103.113.103.202:8001/play/a002/index.m3u8",
-    "categoryId": "movies",
+    "categoryId": "hindi_movies3",
     "categoryName": "Movies 3"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Sony Max HD (1080p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
-    "categoryId": "movies",
+    "categoryId": "hindi_movies3",
     "categoryName": "Movies 3"
   },
    {
@@ -132,8 +132,40 @@
     "name": "Sony Wah (576p)",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
     "streamUrl": "http://103.78.149.54:8000/play/a01p/index.m3u8",
-    "categoryId": "movies",
+    "categoryId": "hindi_movies3",
     "categoryName": "Movies 3"
+  },
+   {
+    "id": "68392174",
+    "name": "Star Utsav Movies (576p)",
+    "iconUrl": "https://i.imgur.com/k5QHfH2.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a00m/index.m3u8",
+    "categoryId": "hindi_movies4",
+    "categoryName": "Movies 4"
+  },
+  {
+    "id": "24938176",
+    "name": "Shemaroo Josh (720p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png",
+    "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
+    "categoryId": "hindi_movies4",
+    "categoryName": "Movies 4"
+  },
+  {
+    "id": "29743618",
+    "name": "Surya Movies (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/LOGO_HD/image.png",
+    "streamUrl": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
+    "categoryId": "hindi_movies4",
+    "categoryName": "Movies 4"
+  },
+  {
+    "id": "39175482",
+    "name": "Colors Gujarati Cinema (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png",
+    "streamUrl": "http://111.88.78.21:8000/play/a0zm/index.m3u8",
+    "categoryId": "gujarati_movies",
+    "categoryName": "Gujarati Movies"
   },
    {
     "id": "40",
@@ -214,6 +246,198 @@
     "streamUrl": "http://103.229.254.25:7001/play/a0cl/index.m3u8",
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
+  },
+  {
+    "id": "83742651",
+    "name": "Colors Rishtey Asia (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a01g/index.m3u8",
+    "categoryId": "entertainment3",
+    "categoryName": "Entertainment 3"
+  },
+  {
+    "id": "27461839",
+    "name": "Colors (576p)",
+    "iconUrl": "https://i.imgur.com/M8uCJ0D.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a077/index.m3u8",
+    "categoryId": "entertainment3",
+    "categoryName": "Entertainment 3"
+  },
+  {
+    "id": "51937264",
+    "name": "Colors HD (1080p)",
+    "iconUrl": "https://i.imgur.com/M8uCJ0D.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
+    "categoryId": "entertainment3",
+    "categoryName": "Entertainment 3"
+  },
+  {
+    "id": "43187625",
+    "name": "Shemaroo Umang (720p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",
+    "streamUrl": "https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8",
+    "categoryId": "entertainment3",
+    "categoryName": "Entertainment 3"
+  },
+  {
+    "id": "95264817",
+    "name": "Star TV",
+    "iconUrl": "https://i.imgur.com/04y9wz8.png",
+    "streamUrl": "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8",
+    "categoryId": "entertainment3",
+    "categoryName": "Entertainment 3"
+  },
+  {
+    "id": "31748926",
+    "name": "Star Utsav (576p)",
+    "iconUrl": "https://i.imgur.com/H1jhHDl.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a00r/index.m3u8",
+    "categoryId": "entertainment3",
+    "categoryName": "Entertainment 3"
+  },
+  {
+    "id": "38174629",
+    "name": "Zee TV (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://161.248.38.40:8000/play/a08v/index.m3u8",
+    "categoryId": "entertainment4",
+    "categoryName": "Entertainment 4"
+  },
+  {
+    "id": "72946183",
+    "name": "Zee TV HD (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+    "categoryId": "entertainment4",
+    "categoryName": "Entertainment 4"
+  },
+  {
+    "id": "52817364",
+    "name": "StarPlus (576p)",
+    "iconUrl": "https://i.imgur.com/xWxNy3L.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a09p/index.m3u8",
+    "categoryId": "entertainment4",
+    "categoryName": "Entertainment 4"
+  },
+  {
+    "id": "17493826",
+    "name": "StarPlus HD (1080p)",
+    "iconUrl": "https://i.imgur.com/xWxNy3L.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a09z/index.m3u8",
+    "categoryId": "entertainment4",
+    "categoryName": "Entertainment 4"
+  },
+  {
+    "id": "45692871",
+    "name": "Dangal 2 (720p)",
+    "iconUrl": "https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png",
+    "streamUrl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+    "categoryId": "entertainment4",
+    "categoryName": "Entertainment 4"
+  },
+  {
+    "id": "93817246",
+    "name": "Dangal TV (720p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png",
+    "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+    "categoryId": "entertainment4
+    "categoryName": "Entertainment 4"
+  },
+  {
+    "id": "47381926",
+    "name": "Zee Dil Se (1080p)",
+    "iconUrl": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
+    "streamUrl": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+  {
+    "id": "18364927",
+    "name": "Dabangg (576p)",
+    "iconUrl": "https://i.imgur.com/6ChpxLy.png",
+    "streamUrl": "https://mumt01.tangotv.in/DABANGG/index.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+  {
+    "id": "62748319",
+    "name": "Nazara (1080p)",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png",
+    "streamUrl": "https://epiconvh.akamaized.net/live/nazara/master.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+   {
+    "id": "76512843",
+    "name": "Shemaroo TV (720p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png",
+    "streamUrl": "https://cdn-3.pishow.tv/live/230/master.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+  {
+    "id": "91637248",
+    "name": "Zee Horror Nights (1080p)",
+    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png",
+    "streamUrl": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+  {
+    "id": "84619237",
+    "name": "Sun Neo (576p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png",
+    "streamUrl": "http://163.61.227.29:8000/play/a04t/index.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+   {
+    "id": "63827491",
+    "name": "Surya TV (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_HD/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0dq/index.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+   {
+    "id": "72584193",
+    "name": "Dabanga TV (1080p)",
+    "iconUrl": "https://i.imgur.com/BH1N6TA.png",
+    "streamUrl": "https://hls.dabangasudan.org/hls/stream.m3u8",
+    "categoryId": "entertainment5",
+    "categoryName": "Entertainment 5"
+  },
+  {
+    "id": "64823917",
+    "name": "Colors Infinity HD (1080p)",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0du/index.m3u8",
+    "categoryId": "entertainment_english",
+    "categoryName": "English Entertainment"
+  },
+  {
+    "id": "56218347",
+    "name": "Zee One (1080p)",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
+    "streamUrl": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
+    "categoryId": "english_entertainment",
+    "categoryName": "English Entertainment"
+  },
+  {
+    "id": "37219648",
+    "name": "People Are Awesome",
+    "iconUrl": "https://i.imgur.com/MsIx7Ax.png",
+    "streamUrl": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8",
+    "categoryId": "entertainment_english",
+    "categoryName": "English Entertainment"
+  },
+  {
+    "id": "58461327",
+    "name": "People Are Awesome (720p)",
+    "iconUrl": "https://i.imgur.com/MsIx7Ax.png",
+    "streamUrl": "https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8",
+    "categoryId": "entertainment_english",
+    "categoryName": "English Entertainment"
   },
   {
     "id": "17",
@@ -548,6 +772,14 @@
     "name": "YRF Music HD",
     "iconUrl": "https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "81623749",
+    "name": "Shemaroo Filmigaane",
+    "iconUrl": "",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8?ads.vf=XvjJifm4b-C",
     "categoryId": "music",
     "categoryName": "Music"
   },
