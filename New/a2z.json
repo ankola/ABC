@@ -40,6 +40,14 @@
     "categoryName": "Movies"
   },
   {
+    "id": "53781924",
+    "name": "Zee Comedy Nation HD",
+    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
+    "streamUrl": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "hindi_movies"
+  },
+  {
     "id": "6",
     "name": "Goldmines Movies",
     "iconUrl": "https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",
@@ -97,7 +105,7 @@
   },
   {
     "id": "44",
-    "name": "Sony Max HD (1080p)",
+    "name": "Sony Max HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
     "categoryId": "hindi_movies3",
@@ -121,7 +129,7 @@
   },
   {
     "id": "47",
-    "name": "Sony Max HD (1080p)",
+    "name": "Sony Max HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
     "categoryId": "hindi_movies3",
@@ -257,7 +265,7 @@
   },
   {
     "id": "51937264",
-    "name": "Colors HD (1080p)",
+    "name": "Colors HD",
     "iconUrl": "https://i.imgur.com/M8uCJ0D.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
     "categoryId": "entertainment3",
@@ -297,7 +305,7 @@
   },
   {
     "id": "72946183",
-    "name": "Zee TV HD (1080p)",
+    "name": "Zee TV HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
     "categoryId": "entertainment4",
@@ -313,7 +321,7 @@
   },
   {
     "id": "17493826",
-    "name": "StarPlus HD (1080p)",
+    "name": "StarPlus HD",
     "iconUrl": "https://i.imgur.com/xWxNy3L.png",
     "streamUrl": "http://103.229.254.25:7001/play/a09z/index.m3u8",
     "categoryId": "entertainment4",
@@ -337,7 +345,7 @@
   },
   {
     "id": "47381926",
-    "name": "Zee Dil Se (1080p)",
+    "name": "Zee Dil Se HD",
     "iconUrl": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
     "streamUrl": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8",
     "categoryId": "entertainment5",
@@ -353,7 +361,7 @@
   },
   {
     "id": "62748319",
-    "name": "Nazara (1080p)",
+    "name": "Nazara HD",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png",
     "streamUrl": "https://epiconvh.akamaized.net/live/nazara/master.m3u8",
     "categoryId": "entertainment5",
@@ -369,7 +377,7 @@
   },
   {
     "id": "91637248",
-    "name": "Zee Horror Nights (1080p)",
+    "name": "Zee Horror Nights HD",
     "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png",
     "streamUrl": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
     "categoryId": "entertainment5",
@@ -377,7 +385,7 @@
   },
   {
     "id": "63827491",
-    "name": "Surya TV (1080p)",
+    "name": "Surya TV HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_HD/images/LOGO_HD/image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0dq/index.m3u8",
     "categoryId": "entertainment5",
@@ -385,7 +393,7 @@
   },
   {
     "id": "72584193",
-    "name": "Dabanga TV (1080p)",
+    "name": "Dabanga TV HD",
     "iconUrl": "https://i.imgur.com/BH1N6TA.png",
     "streamUrl": "https://hls.dabangasudan.org/hls/stream.m3u8",
     "categoryId": "entertainment5",
@@ -393,7 +401,7 @@
   },
   {
     "id": "64823917",
-    "name": "Colors Infinity HD (1080p)",
+    "name": "Colors Infinity HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0du/index.m3u8",
     "categoryId": "entertainment_english",
@@ -401,7 +409,7 @@
   },
   {
     "id": "56218347",
-    "name": "Zee One (1080p)",
+    "name": "Zee One HD",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
     "streamUrl": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
     "categoryId": "english_entertainment",
@@ -412,6 +420,14 @@
     "name": "Zee Zest HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0dp/index.m3u8",
+    "categoryId": "english_entertainment",
+    "categoryName": "English Entertainment"
+  },
+  {
+    "id": "29174837",
+    "name": "Zee Cafe HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0cx/index.m3u8",
     "categoryId": "english_entertainment",
     "categoryName": "English Entertainment"
   },
@@ -817,7 +833,7 @@
   },
   {
     "id": "48",
-    "name": "Sony Sports Ten 1 HD (1080p)",
+    "name": "Sony Sports Ten 1 HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
     "streamUrl": "http://103.121.6.5:8000/play/a05w/index.m3u8",
     "categoryId": "sports",
@@ -825,7 +841,7 @@
   },
   {
     "id": "49",
-    "name": "Sony Sports Ten 2 HD (1080p)",
+    "name": "Sony Sports Ten 2 HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a02t/index.m3u8",
     "categoryId": "sports",
@@ -833,7 +849,7 @@
   },
   {
     "id": "50",
-    "name": "Sony Sports Ten 3 Hindi (576p)",
+    "name": "Sony Sports Ten 3 Hindi",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a09q/index.m3u8",
     "categoryId": "sports",
@@ -841,7 +857,7 @@
   },
   {
     "id": "51",
-    "name": "Sony Sports Ten 3 Hindi HD (1080p)",
+    "name": "Sony Sports Ten 3 Hindi HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://116.90.120.128:8000/play/a0jr/index.m3u88",
     "categoryId": "sports",
@@ -849,7 +865,7 @@
   },
   {
     "id": "52",
-    "name": "Sony Sports Ten 5 HD (1080p)",
+    "name": "Sony Sports Ten 5 HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
     "categoryId": "sports",
@@ -961,7 +977,7 @@
   },
   {
     "id": "83619274",
-    "name": "Super Simple Songs (1080p)",
+    "name": "Super Simple Songs HD",
     "iconUrl": "https://i.imgur.com/3k4F7O9.png",
     "streamUrl": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8",
     "categoryId": "cartoon",
@@ -969,7 +985,7 @@
   },
   {
     "id": "41728536",
-    "name": "Tiny Pop (1080p)",
+    "name": "Tiny Pop HD",
     "iconUrl": "https://i.imgur.com/zCTf71x.png",
     "streamUrl": "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
     "categoryId": "cartoon",
