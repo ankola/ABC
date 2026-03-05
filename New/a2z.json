@@ -384,18 +384,26 @@
     "categoryName": "Entertainment"
   },
   {
-    "id": "64823917",
-    "name": "Colors Infinity HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-    "streamUrl": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-    "categoryId": "entertainment_english",
-    "categoryName": "English Entertainment"
-  },
-  {
     "id": "56218347",
     "name": "Zee One HD",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
     "streamUrl": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
+    "categoryId": "entertainment_english",
+    "categoryName": "English Entertainment"
+  },
+   {
+    "id": "37219648",
+    "name": "People Are Awesome",
+    "iconUrl": "https://i.imgur.com/MsIx7Ax.png",
+    "streamUrl": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8",
+    "categoryId": "entertainment_english",
+    "categoryName": "English Entertainment"
+  },
+  {
+    "id": "58461327",
+    "name": "People Are Awesome",
+    "iconUrl": "https://i.imgur.com/MsIx7Ax.png",
+    "streamUrl": "https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8",
     "categoryId": "entertainment_english",
     "categoryName": "English Entertainment"
   },
@@ -416,18 +424,10 @@
     "categoryName": "English Entertainment"
   },
   {
-    "id": "37219648",
-    "name": "People Are Awesome",
-    "iconUrl": "https://i.imgur.com/MsIx7Ax.png",
-    "streamUrl": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8",
-    "categoryId": "entertainment_english",
-    "categoryName": "English Entertainment"
-  },
-  {
-    "id": "58461327",
-    "name": "People Are Awesome",
-    "iconUrl": "https://i.imgur.com/MsIx7Ax.png",
-    "streamUrl": "https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8",
+    "id": "64823917",
+    "name": "Colors Infinity HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0du/index.m3u8",
     "categoryId": "entertainment_english",
     "categoryName": "English Entertainment"
   },
