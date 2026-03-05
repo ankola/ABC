@@ -113,7 +113,7 @@
   },
   {
     "id": "45",
-    "name": "Sony Max (576p)",
+    "name": "Sony Max",
     "iconUrl": "https://i.imgur.com/LBICKI5.png",
     "streamUrl": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8",
     "categoryId": "hindi_movies",
@@ -121,7 +121,7 @@
   },
   {
     "id": "46",
-    "name": "Sony Max 2 (576p)",
+    "name": "Sony Max 2",
     "iconUrl": "https://i.imgur.com/gqUYk6C.png",
     "streamUrl": "http://103.113.103.202:8001/play/a002/index.m3u8",
     "categoryId": "hindi_movies",
@@ -137,7 +137,7 @@
   },
   {
     "id": "53",
-    "name": "Sony Wah (576p)",
+    "name": "Sony Wah",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
     "streamUrl": "http://103.78.149.54:8000/play/a01p/index.m3u8",
     "categoryId": "hindi_movies",
@@ -145,7 +145,7 @@
   },
   {
     "id": "68392174",
-    "name": "Star Utsav Movies (576p)",
+    "name": "Star Utsav Movies",
     "iconUrl": "https://i.imgur.com/k5QHfH2.png",
     "streamUrl": "http://103.78.149.54:8000/play/a00m/index.m3u8",
     "categoryId": "hindi_movies",
@@ -153,7 +153,7 @@
   },
   {
     "id": "24938176",
-    "name": "Shemaroo Josh (720p)",
+    "name": "Shemaroo Josh",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png",
     "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
     "categoryId": "hindi_movies",
@@ -161,7 +161,7 @@
   },
   {
     "id": "29743618",
-    "name": "Surya Movies (576p)",
+    "name": "Surya Movies",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/LOGO_HD/image.png",
     "streamUrl": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
     "categoryId": "hindi_movies",
@@ -169,7 +169,7 @@
   },
   {
     "id": "39175482",
-    "name": "Colors Gujarati Cinema (576p)",
+    "name": "Colors Gujarati Cinema",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png",
     "streamUrl": "http://111.88.78.21:8000/play/a0zm/index.m3u8",
     "categoryId": "gujarati_movies",
@@ -249,7 +249,7 @@
   },
   {
     "id": "83742651",
-    "name": "Colors Rishtey Asia (576p)",
+    "name": "Colors Rishtey Asia",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://103.78.149.54:8000/play/a01g/index.m3u8",
     "categoryId": "hindi_entertainment",
@@ -257,7 +257,7 @@
   },
   {
     "id": "27461839",
-    "name": "Colors (576p)",
+    "name": "Colors",
     "iconUrl": "https://i.imgur.com/M8uCJ0D.png",
     "streamUrl": "http://103.229.254.25:7001/play/a077/index.m3u8",
     "categoryId": "hindi_entertainment",
@@ -273,7 +273,7 @@
   },
   {
     "id": "43187625",
-    "name": "Shemaroo Umang (720p)",
+    "name": "Shemaroo Umang",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",
     "streamUrl": "https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8",
     "categoryId": "hindi_entertainment",
@@ -289,7 +289,7 @@
   },
   {
     "id": "31748926",
-    "name": "Star Utsav (576p)",
+    "name": "Star Utsav",
     "iconUrl": "https://i.imgur.com/H1jhHDl.png",
     "streamUrl": "http://103.78.149.54:8000/play/a00r/index.m3u8",
     "categoryId": "hindi_entertainment",
@@ -297,7 +297,7 @@
   },
   {
     "id": "38174629",
-    "name": "Zee TV (576p)",
+    "name": "Zee TV",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://161.248.38.40:8000/play/a08v/index.m3u8",
     "categoryId": "hindi_entertainment",
@@ -313,7 +313,7 @@
   },
   {
     "id": "52817364",
-    "name": "StarPlus (576p)",
+    "name": "StarPlus",
     "iconUrl": "https://i.imgur.com/xWxNy3L.png",
     "streamUrl": "http://103.229.254.25:7001/play/a09p/index.m3u8",
     "categoryId": "hindi_entertainment",
@@ -329,7 +329,7 @@
   },
   {
     "id": "45692871",
-    "name": "Dangal 2 (720p)",
+    "name": "Dangal 2",
     "iconUrl": "https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png",
     "streamUrl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
     "categoryId": "hindi_entertainment",
@@ -337,7 +337,7 @@
   },
   {
     "id": "93817246",
-    "name": "Dangal TV (720p)",
+    "name": "Dangal TV",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png",
     "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
     "categoryId": "hindi_entertainment",
@@ -353,7 +353,7 @@
   },
   {
     "id": "18364927",
-    "name": "Dabangg (576p)",
+    "name": "Dabangg",
     "iconUrl": "https://i.imgur.com/6ChpxLy.png",
     "streamUrl": "https://mumt01.tangotv.in/DABANGG/index.m3u8",
     "categoryId": "hindi_entertainment",
@@ -369,7 +369,7 @@
   },
    {
     "id": "76512843",
-    "name": "Shemaroo TV (720p)",
+    "name": "Shemaroo TV",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png",
     "streamUrl": "https://cdn-3.pishow.tv/live/230/master.m3u8",
     "categoryId": "hindi_entertainment",
@@ -441,7 +441,7 @@
   },
   {
     "id": "58461327",
-    "name": "People Are Awesome (720p)",
+    "name": "People Are Awesome",
     "iconUrl": "https://i.imgur.com/MsIx7Ax.png",
     "streamUrl": "https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8",
     "categoryId": "entertainment_english",
@@ -745,7 +745,7 @@
   },
    {
     "id": "64729183",
-    "name": "Balle Balle (720p)",
+    "name": "Balle Balle",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
     "streamUrl": "https://mcncdndigital.com/balleballetv/index.m3u8",
     "categoryId": "music",
@@ -753,7 +753,7 @@
   },
   {
     "id": "37shake19",
-    "name": "BIZ Music (1080p)",
+    "name": "BIZ Music",
     "iconUrl": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
     "streamUrl": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
     "categoryId": "music",
@@ -761,7 +761,7 @@
   },
   {
     "id": "81364927",
-    "name": "JooMusic (720p)",
+    "name": "JooMusic",
     "iconUrl": "https://i.imgur.com/KHuKQQL.png",
     "streamUrl": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
     "categoryId": "music",
@@ -769,7 +769,7 @@
   },
   {
     "id": "53917846",
-    "name": "Zing (576p)",
+    "name": "Zing",
     "iconUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png",
     "streamUrl": "http://161.248.38.40:8000/play/a0ax/index.m3u8",
     "categoryId": "music",
@@ -777,7 +777,7 @@
   },
   {
     "id": "29648371",
-    "name": "Zindagi TV (576p)",
+    "name": "Zindagi TV",
     "iconUrl": "https://i.imgur.com/XBHvR5J.png",
     "streamUrl": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
     "categoryId": "music",
@@ -969,7 +969,7 @@
   },
   {
     "id": "57284931",
-    "name": "Sonic (576p)",
+    "name": "Sonic",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
     "categoryId": "cartoon",
@@ -993,7 +993,7 @@
   },
   {
     "id": "84619237",
-    "name": "Sun Neo (576p)",
+    "name": "Sun Neo",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png",
     "streamUrl": "http://163.61.227.29:8000/play/a04t/index.m3u8",
     "categoryId": "cartoon",
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "54",
-    "name": "Sony Yay! (576p)",
+    "name": "Sony Yay!",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0cl/index.m3u8",
     "categoryId": "cartoon",
