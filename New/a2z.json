@@ -392,14 +392,6 @@
     "categoryName": "Entertainment"
   },
   {
-    "id": "72584193",
-    "name": "Dabanga TV HD",
-    "iconUrl": "https://i.imgur.com/BH1N6TA.png",
-    "streamUrl": "https://hls.dabangasudan.org/hls/stream.m3u8",
-    "categoryId": "hindi_entertainment",
-    "categoryName": "Entertainment"
-  },
-  {
     "id": "64823917",
     "name": "Colors Infinity HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
@@ -682,7 +674,7 @@
   {
     "id": "10000001",
     "name": "ABP Asmita HD",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Asmita_logo.svg.png",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEF5WCD9AFnKQ3Eoc8mixlheJfg69J_Z9svA&s",
     "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8",
     "categoryId": "gujarati_news",
     "categoryName": "Gujarati News"
