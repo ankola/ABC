@@ -1,5 +1,37 @@
 [
   {
+    "id": "53781924",
+    "name": "Zee Comedy Nation HD",
+    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
+    "streamUrl": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "6",
+    "name": "Goldmines Movies",
+    "iconUrl": "https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://cdn-2.pishow.tv/live/1461/master.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "10",
+    "name": "Shemaroo Bollywood",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "7",
+    "name": "Goldmines",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF-OvrlzYiwvXB6t2ysLHkEFMtbQh33SaOw&s",
+    "streamUrl": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
     "id": "1",
     "name": "Colors Cineplex Superhit",
     "iconUrl": "https://yt3.googleusercontent.com/iQxdvHYAJeGTmiefMO8whgi21R3lviBCWsw4tHsAKgWCvMXAYplLFvbO_EI6WvbyYZDkp-npA94=s900-c-k-c0x00ffffff-no-rj",
@@ -12,14 +44,6 @@
     "name": "Goldmines Bollywood",
     "iconUrl": "https://yt3.googleusercontent.com/BMAiZnOGPMbMXWFW-lYwgp1-qJD6iPbBtB6YS3Kyr9lPM1jlegCl83vHjyasFEjPJrBYAsaeLQ=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "http://103.175.73.12:8080/live/52/52_0.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "3",
-    "name": "Star Utsav Movies",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN8Df7ooHFvmFRFrrGlMt_K_aWYmgFunOXg&s",
-    "streamUrl": "http://103.175.73.12:8080/live/42/42_0.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
@@ -40,30 +64,6 @@
     "categoryName": "Movies"
   },
   {
-    "id": "53781924",
-    "name": "Zee Comedy Nation HD",
-    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
-    "streamUrl": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "6",
-    "name": "Goldmines Movies",
-    "iconUrl": "https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://cdn-2.pishow.tv/live/1461/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "7",
-    "name": "Goldmines",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF-OvrlzYiwvXB6t2ysLHkEFMtbQh33SaOw&s",
-    "streamUrl": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
     "id": "8",
     "name": "Goldmines Movies 2",
     "iconUrl": "https://s1.dmcdn.net/u/9r0ws1eI5LAHH9xdL/240x240",
@@ -80,10 +80,18 @@
     "categoryName": "Movies"
   },
   {
-    "id": "10",
-    "name": "Shemaroo Bollywood",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",
-    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "id": "12",
+    "name": "B4U Kadak",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
+    "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+   {
+    "id": "24938176",
+    "name": "Shemaroo Josh",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png",
+    "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
@@ -95,11 +103,11 @@
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
-  {
-    "id": "12",
-    "name": "B4U Kadak",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
-    "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
+   {
+    "id": "29743618",
+    "name": "Surya Movies",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/LOGO_HD/image.png",
+    "streamUrl": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
@@ -152,18 +160,10 @@
     "categoryName": "Movies"
   },
   {
-    "id": "24938176",
-    "name": "Shemaroo Josh",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png",
-    "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "29743618",
-    "name": "Surya Movies",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/LOGO_HD/image.png",
-    "streamUrl": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
+    "id": "3",
+    "name": "Star Utsav Movies",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN8Df7ooHFvmFRFrrGlMt_K_aWYmgFunOXg&s",
+    "streamUrl": "http://103.175.73.12:8080/live/42/42_0.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
