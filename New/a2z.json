@@ -72,14 +72,6 @@
     "categoryName": "Movies"
   },
   {
-    "id": "9",
-    "name": "Hindi Movies",
-    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
     "id": "12",
     "name": "B4U Kadak",
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
@@ -100,6 +92,14 @@
     "name": "B4U Movies",
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "9",
+    "name": "Hindi Movies",
+    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
