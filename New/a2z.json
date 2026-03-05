@@ -103,19 +103,19 @@
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
-   {
-    "id": "29743618",
-    "name": "Surya Movies",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/LOGO_HD/image.png",
-    "streamUrl": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
   {
     "id": "44",
     "name": "Sony Max HD 2",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "47",
+    "name": "Sony Max HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
+    "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
@@ -135,11 +135,11 @@
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
-  {
-    "id": "47",
-    "name": "Sony Max HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
-    "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
+   {
+    "id": "29743618",
+    "name": "Surya Movies",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/LOGO_HD/image.png",
+    "streamUrl": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
