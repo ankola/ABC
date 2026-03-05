@@ -412,7 +412,7 @@
     "name": "Zee One HD",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
     "streamUrl": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
-    "categoryId": "english_entertainment",
+    "categoryId": "entertainment_english",
     "categoryName": "English Entertainment"
   },
   {
@@ -420,7 +420,7 @@
     "name": "Zee Zest HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0dp/index.m3u8",
-    "categoryId": "english_entertainment",
+    "categoryId": "entertainment_english",
     "categoryName": "English Entertainment"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Zee Cafe HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0cx/index.m3u8",
-    "categoryId": "english_entertainment",
+    "categoryId": "entertainment_english",
     "categoryName": "English Entertainment"
   },
   {
