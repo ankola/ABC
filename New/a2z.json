@@ -191,14 +191,6 @@
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
   },
-   {
-    "id": "93817246",
-    "name": "Dangal TV",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png",
-    "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
-    "categoryId": "hindi_entertainment",
-    "categoryName": "Entertainment"
-  },
   {
     "id": "45692871",
     "name": "Dangal 2",
@@ -216,10 +208,10 @@
     "categoryName": "Entertainment"
   },
   {
-    "id": "83742651",
-    "name": "Colors Rishtey Asia",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png",
-    "streamUrl": "http://103.78.149.54:8000/play/a01g/index.m3u8",
+    "id": "93817246",
+    "name": "Dangal TV",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png",
+    "streamUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
   },
@@ -232,10 +224,18 @@
     "categoryName": "Entertainment"
   },
   {
-    "id": "27461839",
-    "name": "Colors",
-    "iconUrl": "https://i.imgur.com/M8uCJ0D.png",
-    "streamUrl": "http://103.229.254.25:7001/play/a077/index.m3u8",
+    "id": "72946183",
+    "name": "Zee TV HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+    "categoryId": "hindi_entertainment",
+    "categoryName": "Entertainment"
+  },
+   {
+    "id": "17493826",
+    "name": "StarPlus HD",
+    "iconUrl": "https://i.imgur.com/xWxNy3L.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a09z/index.m3u8",
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
   },
@@ -248,26 +248,18 @@
     "categoryName": "Entertainment"
   },
   {
-    "id": "31748926",
-    "name": "Star Utsav",
-    "iconUrl": "https://i.imgur.com/H1jhHDl.png",
-    "streamUrl": "http://103.78.149.54:8000/play/a00r/index.m3u8",
-    "categoryId": "hindi_entertainment",
-    "categoryName": "Entertainment"
-  },
-   {
-    "id": "72946183",
-    "name": "Zee TV HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-    "streamUrl": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+    "id": "27461839",
+    "name": "Colors",
+    "iconUrl": "https://i.imgur.com/M8uCJ0D.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a077/index.m3u8",
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
   },
   {
-    "id": "17493826",
-    "name": "StarPlus HD",
-    "iconUrl": "https://i.imgur.com/xWxNy3L.png",
-    "streamUrl": "http://103.229.254.25:7001/play/a09z/index.m3u8",
+    "id": "31748926",
+    "name": "Star Utsav",
+    "iconUrl": "https://i.imgur.com/H1jhHDl.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a00r/index.m3u8",
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
   },
@@ -372,6 +364,14 @@
     "name": "Sony Channel HD",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",
     "streamUrl": "http://38.183.182.166:8000/play/a0vg/index.m3u8",
+    "categoryId": "hindi_entertainment",
+    "categoryName": "Entertainment"
+  },
+   {
+    "id": "83742651",
+    "name": "Colors Rishtey Asia",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a01g/index.m3u8",
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
   },
