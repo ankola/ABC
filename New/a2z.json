@@ -124,7 +124,7 @@
   },
   {
     "id": "25741893",
-    "name": "All Time Movies (576p)",
+    "name": "All Time Movies",
     "iconUrl": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "http://103.78.149.54:8000/play/a00i/index.m3u8",
     "categoryId": "hindi_movies",
@@ -132,7 +132,7 @@
   },
   {
     "id": "67392015",
-    "name": "Star Gold 2 (576p)",
+    "name": "Star Gold 2",
     "iconUrl": "https://i.imgur.com/G0ZfzZr.png",
     "streamUrl": "http://161.248.38.40:8000/play/a06z/index.m3u8",
     "categoryId": "hindi_movies",
@@ -140,7 +140,7 @@
   },
   {
     "id": "38104729",
-    "name": "Star Gold 2 HD (1080p)",
+    "name": "Star Gold 2 HD",
     "iconUrl": "https://i.imgur.com/G0ZfzZr.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0d0/index.m3u8",
     "categoryId": "hindi_movies",
@@ -148,7 +148,7 @@
   },
   {
     "id": "91653480",
-    "name": "Star Gold HD (1080p)",
+    "name": "Star Gold HD",
     "iconUrl": "https://i.imgur.com/xC460sj.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0dd/index.m3u8",
     "categoryId": "hindi_movies",
@@ -156,7 +156,7 @@
   },
   {
     "id": "54827361",
-    "name": "Star Gold Romance (576p)",
+    "name": "Star Gold Romance",
     "iconUrl": "https://i.imgur.com/gSWv9U3.png",
     "streamUrl": "http://103.113.103.202:8001/play/a029/index.m3u8",
     "categoryId": "hindi_movies",
@@ -164,7 +164,7 @@
   },
   {
     "id": "72910384",
-    "name": "Star Gold Select HD (1080p)",
+    "name": "Star Gold Select HD",
     "iconUrl": "https://i.imgur.com/U7eiuqv.png",
     "streamUrl": "http://103.229.254.25:7001/play/a032/index.m3u8",
     "categoryId": "hindi_movies",
@@ -172,7 +172,7 @@
   },
   {
     "id": "43insurgents",
-    "name": "Star Gold Thrills (576p)",
+    "name": "Star Gold Thrills",
     "iconUrl": "https://i.imgur.com/azqtpYh.png",
     "streamUrl": "http://161.248.38.40:8000/play/a06v/index.m3u8",
     "categoryId": "hindi_movies",
@@ -191,6 +191,94 @@
     "name": "Hindi Movies",
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "38472910",
+    "name": "Zee Action",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a005/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "61903854",
+    "name": "Zee Biskope",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://116.90.120.128:8000/play/a0kf/index.m3u88",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "74218365",
+    "name": "Zee Bollymovies",
+    "iconUrl": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
+    "streamUrl": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "29583047",
+    "name": "Zee Bollymovies Australia",
+    "iconUrl": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
+    "streamUrl": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "53691720",
+    "name": "Zee Bollywood",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://161.248.38.40:8000/play/a075/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "91563402",
+    "name": "Zee Chitramandir",
+    "iconUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZZ40.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a022/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "36814729",
+    "name": "Zee Cine Classic",
+    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
+    "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "categoryId": "classic",
+    "categoryName": "Classic"
+  },
+  {
+    "id": "58203916",
+    "name": "Zee Cinema APAC",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "73918254",
+    "name": "Zee Cinema HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.113.103.202:8001/play/a005/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "40172638",
+    "name": "Zee Classic",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://161.248.38.40:8000/play/a06a/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "65839201",
+    "name": "Zee Talkies HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://116.90.120.128:8000/play/a0io/index.m3u88",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
@@ -915,6 +1003,22 @@
     "categoryName": "Music"
   },
   {
+    "id": "34782910",
+    "name": "Zoom",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+    "streamUrl": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "57conductors",
+    "name": "Zoom Global",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+    "streamUrl": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
     "id": "81623749",
     "name": "Shemaroo Filmigaane",
     "iconUrl": "https://yt3.googleusercontent.com/IZPkATp1E7hxHlLWSCR0mo7dQRgAiV2VV-FBC_F5CUn58SnuzlnKHYG-QhQc105E-g3hXuWmxQ=w544-c-h544-k-c0x00ffffff-no-l90-rj",
@@ -1313,5 +1417,117 @@
     "streamUrl": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
+  },
+  {
+    "id": "82047193",
+    "name": "Zee Business",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
+    "streamUrl": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "91043782",
+    "name": "CNBC TV18",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_TV18/images/LOGO_HD/image.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "62bathroom519",
+    "name": "CNBC TV18 Prime HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_PRIME_HD/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "48391027",
+    "name": "CNBC UK",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png",
+    "streamUrl": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "75610293",
+    "name": "CNBC Asia",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "30sufferance",
+    "name": "CNBC Awaaz",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "84927361",
+    "name": "CNBC Bajar",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_BAJAR/images/LOGO_HD/image.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "51836749",
+    "name": "CNBC Europe HD",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png",
+    "streamUrl": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "29384710",
+    "name": "ET Now",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png",
+    "streamUrl": "https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "63819402",
+    "name": "ET Now Swadesh",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png",
+    "streamUrl": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "47201893",
+    "name": "NDTV Profit",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png",
+    "streamUrl": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "85632047",
+    "name": "NDTV Profit 2",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png",
+    "streamUrl": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "31749280",
+    "name": "Zee Business",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
+    "streamUrl": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
+  },
+  {
+    "id": "58034916",
+    "name": "Yahoo! Finance",
+    "iconUrl": "https://i.imgur.com/43oHsHL.png",
+    "streamUrl": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+    "categoryId": "business",
+    "categoryName": "Business"
   }
 ]
