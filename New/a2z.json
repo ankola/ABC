@@ -1140,8 +1140,8 @@
     "name": "Jio Chinema",
     "iconUrl": "https://telecomtalk.info/wp-content/uploads/2025/02/whats-the-future-for-jiocinema-and-disney.jpg",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
-    "categoryName": "cartoon",
-    "categoryId": "Cartoon"
+    "categoryName": "Cartoon",
+    "categoryId": "cartoon"
   },
   {
     "id": "31",
