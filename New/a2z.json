@@ -105,8 +105,8 @@
   },
   {
     "id": "r5hupcym5oehh",
-    "name": "The Movie Club",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAy_Sbo2kHMoTmvwQyMU1hqTFMs5YZNadNDQ&s",
+    "name": "NH Bolly Flix",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-TLh3szX_2v0OZnqLroTiardzBOpLS95Gg&s",
     "streamUrl": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
@@ -121,8 +121,8 @@
   },
   {
     "id": "209593_bollywood",
-    "name": "Bollywood Movies 2",
-    "iconUrl": "https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",
+    "name": "The Movie Club",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAy_Sbo2kHMoTmvwQyMU1hqTFMs5YZNadNDQ&s",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
