@@ -98,7 +98,7 @@
   {
     "id": "209612",
     "name": "Hindi Movies",
-    "iconUrl": "",
+    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
@@ -106,7 +106,7 @@
   {
     "id": "209622",
     "name": "Hindi Movies 2",
-    "iconUrl": "",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvQEgpxnXZOYEsu3_bxujR1HKvWtZlZFDQQ&s",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
@@ -114,7 +114,7 @@
   {
     "id": "209593",
     "name": "Hindi Dubbed Movies",
-    "iconUrl": "",
+    "iconUrl": "https://yt3.googleusercontent.com/d5YxL9pDOjQDIvM4KUxI65qIXejOQlu9UumqxvUm8i0Wf8xPQJmlBsO6vHWeN44mgG9HXip_=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
@@ -122,7 +122,7 @@
   {
     "id": "r5hupcym5oehh",
     "name": "The Movie Club",
-    "iconUrl": "",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAy_Sbo2kHMoTmvwQyMU1hqTFMs5YZNadNDQ&s",
     "streamUrl": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
@@ -130,15 +130,15 @@
   {
     "id": "209612_bollywood",
     "name": "Bollywood Movies",
-    "iconUrl": "",
+    "iconUrl": "https://m.media-amazon.com/images/I/61w4TDU79jL.png",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
   },
   {
     "id": "209593_bollywood",
-    "name": "Bollywood Movies",
-    "iconUrl": "",
+    "name": "Bollywood Movies 2",
+    "iconUrl": "https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
@@ -146,7 +146,7 @@
   {
     "id": "209622_bollywood",
     "name": "Jio Chinema",
-    "iconUrl": "",
+    "iconUrl": "https://telecomtalk.info/wp-content/uploads/2025/02/whats-the-future-for-jiocinema-and-disney.jpg",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
