@@ -1240,6 +1240,22 @@
     "categoryName": "Cartoon"
   },
   {
+    "id": "insight",
+    "name": "INFAST",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXK55joAZgq6015E4FhgEASATrgtD6uTuCg&s",
+    "streamUrl": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+    "categoryName": "Documentary",
+    "categoryId": "documentary"
+  },
+  {
+    "id": "39",
+    "name": "Wild Earth",
+    "iconUrl": "https://play-lh.googleusercontent.com/qm5AKfgUEET9-1xw_QhrWqfLWIAGx4nj4AjpJoxrdh1vUf9plKNyE7x3KeqJiBKPPuI",
+    "streamUrl": "https://wildearth-plex.amagi.tv/master.m3u8",
+    "categoryId": "documentary",
+    "categoryName": "Documentary"
+  },
+  {
     "id": "outdoorchannel",
     "name": "OUTDOOR CHANNEL",
     "iconUrl": "https://i.ibb.co/jZ2NVqN/outdoorch.png",
@@ -1254,30 +1270,6 @@
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
     "categoryName": "Documentary",
     "categoryId": "documentary"
-  },
-  {
-    "id": "insight",
-    "name": "INSIGHT",
-    "iconUrl": "https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png",
-    "streamUrl": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
-    "categoryName": "Documentary",
-    "categoryId": "documentary"
-  },
-  {
-    "id": "38",
-    "name": "Wild Life",
-    "iconUrl": "https://m.media-amazon.com/images/I/61JeLyb6ovL.png",
-    "streamUrl": "https://wildearth-plex.amagi.tv/master.m3u8",
-    "categoryId": "documentary",
-    "categoryName": "Documentary"
-  },
-  {
-    "id": "39",
-    "name": "Wild Nature",
-    "iconUrl": "https://yt3.googleusercontent.com/DD1zMuxhqa8CftMG65Pd6qFyIO5OTLfbP3w8xtR02WQMxOv14yEuenBTttujo67rslzjY1ub=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://wildearth-plex.amagi.tv/master.m3u8",
-    "categoryId": "documentary",
-    "categoryName": "Documentary"
   },
   {
     "id": "34817263",
