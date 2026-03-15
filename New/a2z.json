@@ -1,13 +1,5 @@
 [
   {
-    "id": "53781924",
-    "name": "Zee Comedy Nation HD",
-    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
-    "streamUrl": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
-    "categoryName": "Movies",
-    "categoryId": "hindi_movies"
-  },
-  {
     "id": "6",
     "name": "Goldmines Movies",
     "iconUrl": "https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",
@@ -30,6 +22,30 @@
     "streamUrl": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
+  },
+  {
+    "id": "12",
+    "name": "B4U Kadak",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
+    "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "209593",
+    "name": "Hindi Dubbed Movies",
+    "iconUrl": "https://yt3.googleusercontent.com/d5YxL9pDOjQDIvM4KUxI65qIXejOQlu9UumqxvUm8i0Wf8xPQJmlBsO6vHWeN44mgG9HXip_=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8",
+    "categoryName": "Movies",
+    "categoryId": "hindi_movies"
+  },
+  {
+    "id": "r5hupcym5oehh",
+    "name": "NH Bolly Flix",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-TLh3szX_2v0OZnqLroTiardzBOpLS95Gg&s",
+    "streamUrl": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
+    "categoryName": "Movies",
+    "categoryId": "hindi_movies"
   },
   {
     "id": "1",
@@ -72,44 +88,12 @@
     "categoryName": "Movies"
   },
   {
-    "id": "12",
-    "name": "B4U Kadak",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
-    "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-   {
-    "id": "24938176",
-    "name": "Shemaroo Josh",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png",
-    "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
     "id": "84729301",
     "name": "Colors Cineplex Bollywood",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",
     "streamUrl": "http://103.182.170.32:8888/play/a01o",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
-  },
-  {
-    "id": "209593",
-    "name": "Hindi Dubbed Movies",
-    "iconUrl": "https://yt3.googleusercontent.com/d5YxL9pDOjQDIvM4KUxI65qIXejOQlu9UumqxvUm8i0Wf8xPQJmlBsO6vHWeN44mgG9HXip_=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8",
-    "categoryName": "Movies",
-    "categoryId": "hindi_movies"
-  },
-  {
-    "id": "r5hupcym5oehh",
-    "name": "NH Bolly Flix",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-TLh3szX_2v0OZnqLroTiardzBOpLS95Gg&s",
-    "streamUrl": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
-    "categoryName": "Movies",
-    "categoryId": "hindi_movies"
   },
   {
     "id": "209612_bollywood",
@@ -132,22 +116,6 @@
     "name": "&pictures HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPICTURES/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a033/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "19384756",
-    "name": "&TV ",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-    "streamUrl": "http://103.229.254.25:7001/play/a09v/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "73620184",
-    "name": "&TV HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-    "streamUrl": "http://103.229.254.25:7001/play/a034/index.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
@@ -408,6 +376,14 @@
     "categoryName": "Entertainment"
   },
   {
+    "id": "53781924",
+    "name": "Zee Comedy Nation HD",
+    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
+    "streamUrl": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+    "categoryName": "hindi_entertainment",
+    "categoryId": "Entertainment"
+  },
+  {
     "id": "13",
     "name": "Colors Rishtey",
     "iconUrl": "https://cdn.skymedia.co.uk/wp-content/uploads/2016/01/WEBSITE-CHANNEL-Colors-Rishtey.png",
@@ -504,12 +480,28 @@
     "categoryName": "Entertainment"
   },
   {
+    "id": "73620184",
+    "name": "&TV HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a034/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
     "id": "51937264",
     "name": "Colors HD",
     "iconUrl": "https://i.imgur.com/M8uCJ0D.png",
     "streamUrl": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
     "categoryId": "hindi_entertainment",
     "categoryName": "Entertainment"
+  },
+   {
+    "id": "19384756",
+    "name": "&TV ",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a09v/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
   },
   {
     "id": "27461839",
@@ -1132,6 +1124,14 @@
     "name": "Motu Patlu",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Motu_Patlu.Jpg/250px-Motu_Patlu.Jpg",
     "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
+    "categoryId": "cartoon",
+    "categoryName": "Cartoon"
+  },
+   {
+    "id": "24938176",
+    "name": "Shemaroo Josh",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png",
+    "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
     "categoryId": "cartoon",
     "categoryName": "Cartoon"
   },
