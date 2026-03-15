@@ -24,22 +24,6 @@
     "categoryName": "Movies"
   },
   {
-    "id": "12",
-    "name": "B4U Kadak",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
-    "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "209593",
-    "name": "Hindi Dubbed Movies",
-    "iconUrl": "https://yt3.googleusercontent.com/d5YxL9pDOjQDIvM4KUxI65qIXejOQlu9UumqxvUm8i0Wf8xPQJmlBsO6vHWeN44mgG9HXip_=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8",
-    "categoryName": "Movies",
-    "categoryId": "hindi_movies"
-  },
-  {
     "id": "r5hupcym5oehh",
     "name": "NH Bolly Flix",
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-TLh3szX_2v0OZnqLroTiardzBOpLS95Gg&s",
@@ -79,6 +63,22 @@
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
+    {
+    "id": "12",
+    "name": "B4U Kadak",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVhrFOKZLfiY1XVtylhQnKWBir17mYZFQ6g&s",
+    "streamUrl": "https://cdn-2.pishow.tv/live/227/master.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "209593",
+    "name": "Hindi Dubbed Movies",
+    "iconUrl": "https://yt3.googleusercontent.com/d5YxL9pDOjQDIvM4KUxI65qIXejOQlu9UumqxvUm8i0Wf8xPQJmlBsO6vHWeN44mgG9HXip_=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8",
+    "categoryName": "Movies",
+    "categoryId": "hindi_movies"
+  },
   {
     "id": "8",
     "name": "Goldmines Movies 2",
@@ -113,7 +113,7 @@
   },
   {
     "id": "62918430",
-    "name": "&pictures HD",
+    "name": "&Pictures HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPICTURES/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://103.229.254.25:7001/play/a033/index.m3u8",
     "categoryId": "hindi_movies",
@@ -124,14 +124,6 @@
     "name": "All Time Movies",
     "iconUrl": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "http://103.78.149.54:8000/play/a00i/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "67392015",
-    "name": "Star Gold 2",
-    "iconUrl": "https://i.imgur.com/G0ZfzZr.png",
-    "streamUrl": "http://161.248.38.40:8000/play/a06z/index.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
@@ -152,6 +144,54 @@
     "categoryName": "Movies"
   },
   {
+    "id": "72910384",
+    "name": "Star Gold Select HD",
+    "iconUrl": "https://i.imgur.com/U7eiuqv.png",
+    "streamUrl": "http://103.229.254.25:7001/play/a032/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+   {
+    "id": "9",
+    "name": "Hindi Movies",
+    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+   {
+    "id": "36814729",
+    "name": "Zee Cine Classic",
+    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
+    "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "44",
+    "name": "Sony Max HD 2",
+    "iconUrl": "https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-1/313073808_3242646999382941_6795083772191406011_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=vb1kyCwxBPwQ7kNvwFp66pa&_nc_oc=Adl-KFCpAcetqHSBlO9l0utzJGRKhXPk0_uiiEd-jxKsWpB0Dogs4sVAxy4dOGLPfoE&_nc_zt=24&_nc_ht=scontent-bom5-1.xx&_nc_gid=SHrwzPkzqOxQ_oyy4onl8g&_nc_ss=8&oh=00_AfxSCb0sk00l7kNt5QEk-WqjwKbqi6kqm6d0wVNGDI4JeA&oe=69B5AA0A",
+    "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "47",
+    "name": "Sony Max HD",
+    "iconUrl": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+    "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
+    "id": "67392015",
+    "name": "Star Gold 2",
+    "iconUrl": "https://i.imgur.com/G0ZfzZr.png",
+    "streamUrl": "http://161.248.38.40:8000/play/a06z/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+   {
     "id": "54827361",
     "name": "Star Gold Romance",
     "iconUrl": "https://i.imgur.com/gSWv9U3.png",
@@ -160,34 +200,10 @@
     "categoryName": "Movies"
   },
   {
-    "id": "72910384",
-    "name": "Star Gold Select HD",
-    "iconUrl": "https://i.imgur.com/U7eiuqv.png",
-    "streamUrl": "http://103.229.254.25:7001/play/a032/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
     "id": "43insurgents",
     "name": "Star Gold Thrills",
     "iconUrl": "https://i.imgur.com/azqtpYh.png",
     "streamUrl": "http://161.248.38.40:8000/play/a06v/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "11",
-    "name": "B4U Movies",
-    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "9",
-    "name": "Hindi Movies",
-    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
@@ -240,14 +256,6 @@
     "categoryName": "Movies"
   },
   {
-    "id": "36814729",
-    "name": "Zee Cine Classic",
-    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
-    "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
     "id": "58203916",
     "name": "Zee Cinema APAC",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
@@ -276,22 +284,6 @@
     "name": "Zee Talkies HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "http://116.90.120.128:8000/play/a0io/index.m3u88",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "44",
-    "name": "Sony Max HD 2",
-    "iconUrl": "https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-1/313073808_3242646999382941_6795083772191406011_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=vb1kyCwxBPwQ7kNvwFp66pa&_nc_oc=Adl-KFCpAcetqHSBlO9l0utzJGRKhXPk0_uiiEd-jxKsWpB0Dogs4sVAxy4dOGLPfoE&_nc_zt=24&_nc_ht=scontent-bom5-1.xx&_nc_gid=SHrwzPkzqOxQ_oyy4onl8g&_nc_ss=8&oh=00_AfxSCb0sk00l7kNt5QEk-WqjwKbqi6kqm6d0wVNGDI4JeA&oe=69B5AA0A",
-    "streamUrl": "http://103.113.103.202:8001/play/a025/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "47",
-    "name": "Sony Max HD",
-    "iconUrl": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
-    "streamUrl": "http://111.88.78.21:8000/play/a0q1/index.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
