@@ -1296,14 +1296,6 @@
     "categoryName": "Religious"
   },
   {
-    "id": "34817263",
-    "name": "Aadinath TV",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png",
-    "streamUrl": "https://mumt01.tangotv.in/AADINATHTV/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
     "id": "87341926",
     "name": "Aastha Bhajan",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
@@ -1372,6 +1364,14 @@
     "name": "Divya Darshan TV",
     "iconUrl": "https://i.imgur.com/EwDQ12F.png",
     "streamUrl": "http://live.divyadarshantv.com/hls/stream.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+    {
+    "id": "34817263",
+    "name": "Aadinath TV",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png",
+    "streamUrl": "https://mumt01.tangotv.in/AADINATHTV/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
