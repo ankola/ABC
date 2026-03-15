@@ -1256,14 +1256,6 @@
     "categoryName": "Religious"
   },
   {
-    "id": "47293816",
-    "name": "Sanskar Digital HD",
-    "iconUrl": "https://i.imgur.com/mu2B6hw.png",
-    "streamUrl": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
     "id": "52463817",
     "name": "Aastha Gujarati",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
@@ -1272,18 +1264,10 @@
     "categoryName": "Religious"
   },
    {
-    "id": "57812364",
-    "name": "Dharm Sandesh",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png",
-    "streamUrl": "https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-   {
-    "id": "31694827",
-    "name": "Divya Darshan TV",
-    "iconUrl": "https://i.imgur.com/EwDQ12F.png",
-    "streamUrl": "http://live.divyadarshantv.com/hls/stream.m3u8",
+    "id": "92748163",
+    "name": "Satsang Digital HD",
+    "iconUrl": "https://i.imgur.com/40kNu1w.png",
+    "streamUrl": "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
@@ -1292,6 +1276,14 @@
     "name": "Aastha",
     "iconUrl": "https://i.imgur.com/IqgrV92.png",
     "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+   {
+    "id": "57812364",
+    "name": "Dharm Sandesh",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png",
+    "streamUrl": "https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
@@ -1319,6 +1311,14 @@
     "categoryId": "religious",
     "categoryName": "Religious"
   },
+   {
+    "id": "15863742",
+    "name": "Satsang TV HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png",
+    "streamUrl": "https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
   {
     "id": "27483619",
     "name": "Sanskar TV HD",
@@ -1343,19 +1343,11 @@
     "categoryId": "religious",
     "categoryName": "Religious"
   },
-  {
-    "id": "15863742",
-    "name": "Satsang TV HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png",
-    "streamUrl": "https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "92748163",
-    "name": "Satsang Web TV HD",
-    "iconUrl": "https://i.imgur.com/40kNu1w.png",
-    "streamUrl": "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8",
+    {
+    "id": "47293816",
+    "name": "Sanskar Digital HD",
+    "iconUrl": "https://i.imgur.com/mu2B6hw.png",
+    "streamUrl": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
@@ -1372,6 +1364,14 @@
     "name": "Sadhna Gold",
     "iconUrl": "https://yt3.googleusercontent.com/t9XQ6ElYZ1lSzOQJecnsyhdRQtSw014xllJQNrFKMM0OThKA79HGQKs5YU9jdlDFYkD5MEfU=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "http://103.78.149.54:8000/play/a01u/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+   {
+    "id": "31694827",
+    "name": "Divya Darshan TV",
+    "iconUrl": "https://i.imgur.com/EwDQ12F.png",
+    "streamUrl": "http://live.divyadarshantv.com/hls/stream.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
