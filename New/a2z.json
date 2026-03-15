@@ -103,14 +103,6 @@
     "categoryName": "Movies",
     "categoryId": "hindi_movies"
   },
-   {
-    "id": "9",
-    "name": "Hindi Movies",
-    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
   {
     "id": "36814729",
     "name": "Zee Cine Classic",
