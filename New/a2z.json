@@ -1240,6 +1240,14 @@
     "categoryId": "documentary"
   },
    {
+    "id": "96147382",
+    "name": "Bhakti Sagar",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png",
+    "streamUrl": "https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+   {
     "id": "19374628",
     "name": "Aastha Prime 1",
     "iconUrl": "https://i.imgur.com/LyWSMJS.png",
@@ -1255,27 +1263,11 @@
     "categoryId": "religious",
     "categoryName": "Religious"
   },
-   {
-    "id": "61928473",
-    "name": "Aastha",
-    "iconUrl": "https://i.imgur.com/IqgrV92.png",
-    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
   {
     "id": "52463817",
     "name": "Aastha Gujarati",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
     "streamUrl": "http://103.78.149.54:8000/play/a03b/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-   {
-    "id": "96147382",
-    "name": "Bhakti Sagar",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png",
-    "streamUrl": "https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
@@ -1292,6 +1284,14 @@
     "name": "Divya Darshan TV",
     "iconUrl": "https://i.imgur.com/EwDQ12F.png",
     "streamUrl": "http://live.divyadarshantv.com/hls/stream.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+   {
+    "id": "61928473",
+    "name": "Aastha",
+    "iconUrl": "https://i.imgur.com/IqgrV92.png",
+    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
@@ -1344,22 +1344,6 @@
     "categoryName": "Religious"
   },
   {
-    "id": "58219463",
-    "name": "Sadhna",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png",
-    "streamUrl": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "36974821",
-    "name": "Sadhna Gold",
-    "iconUrl": "https://yt3.googleusercontent.com/t9XQ6ElYZ1lSzOQJecnsyhdRQtSw014xllJQNrFKMM0OThKA79HGQKs5YU9jdlDFYkD5MEfU=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "http://103.78.149.54:8000/play/a01u/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
     "id": "27483619",
     "name": "Sanskar TV HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png",
@@ -1396,6 +1380,22 @@
     "name": "Satsang Web TV HD",
     "iconUrl": "https://i.imgur.com/40kNu1w.png",
     "streamUrl": "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "58219463",
+    "name": "Sadhna",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png",
+    "streamUrl": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "36974821",
+    "name": "Sadhna Gold",
+    "iconUrl": "https://yt3.googleusercontent.com/t9XQ6ElYZ1lSzOQJecnsyhdRQtSw014xllJQNrFKMM0OThKA79HGQKs5YU9jdlDFYkD5MEfU=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "http://103.78.149.54:8000/play/a01u/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
