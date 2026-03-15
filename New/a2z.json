@@ -1239,27 +1239,27 @@
     "categoryName": "Documentary",
     "categoryId": "documentary"
   },
-  {
-    "id": "34817263",
-    "name": "Aadinath TV",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png",
-    "streamUrl": "https://mumt01.tangotv.in/AADINATHTV/index.m3u8",
+   {
+    "id": "19374628",
+    "name": "Aastha Prime 1",
+    "iconUrl": "https://i.imgur.com/LyWSMJS.png",
+    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
   {
+    "id": "47293816",
+    "name": "Sanskar Web TV HD",
+    "iconUrl": "https://i.imgur.com/mu2B6hw.png",
+    "streamUrl": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+   {
     "id": "61928473",
     "name": "Aastha",
     "iconUrl": "https://i.imgur.com/IqgrV92.png",
     "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "87341926",
-    "name": "Aastha Bhajan",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
-    "streamUrl": "http://103.78.149.54:8000/play/a037/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
@@ -1271,23 +1271,7 @@
     "categoryId": "religious",
     "categoryName": "Religious"
   },
-  {
-    "id": "19374628",
-    "name": "Aastha Prime 1",
-    "iconUrl": "https://i.imgur.com/LyWSMJS.png",
-    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "73628194",
-    "name": "Anand TV",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png",
-    "streamUrl": "https://live.legitpro.co.in/anandtv/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
+   {
     "id": "96147382",
     "name": "Bhakti Sagar",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png",
@@ -1295,15 +1279,7 @@
     "categoryId": "religious",
     "categoryName": "Religious"
   },
-  {
-    "id": "23748916",
-    "name": "Darshan 24",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png",
-    "streamUrl": "https://mumt05.tangotv.in/DARSHAN24/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
+   {
     "id": "57812364",
     "name": "Dharm Sandesh",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png",
@@ -1311,7 +1287,7 @@
     "categoryId": "religious",
     "categoryName": "Religious"
   },
-  {
+   {
     "id": "31694827",
     "name": "Divya Darshan TV",
     "iconUrl": "https://i.imgur.com/EwDQ12F.png",
@@ -1328,26 +1304,42 @@
     "categoryName": "Religious"
   },
   {
+    "id": "34817263",
+    "name": "Aadinath TV",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png",
+    "streamUrl": "https://mumt01.tangotv.in/AADINATHTV/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "87341926",
+    "name": "Aastha Bhajan",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a037/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "73628194",
+    "name": "Anand TV",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png",
+    "streamUrl": "https://live.legitpro.co.in/anandtv/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "23748916",
+    "name": "Darshan 24",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png",
+    "streamUrl": "https://mumt05.tangotv.in/DARSHAN24/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
     "id": "89423617",
     "name": "Jinvani Channel",
     "iconUrl": "https://i.imgur.com/lztyGVi.png",
     "streamUrl": "https://cdn-2.pishow.tv/live/989/master.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "42681937",
-    "name": "Paras Gold",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png",
-    "streamUrl": "https://mumt04.tangotv.in/PARASGOLD/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "71359284",
-    "name": "Peace Of Mind TV",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png",
-    "streamUrl": "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
@@ -1364,14 +1356,6 @@
     "name": "Sadhna Gold",
     "iconUrl": "https://yt3.googleusercontent.com/t9XQ6ElYZ1lSzOQJecnsyhdRQtSw014xllJQNrFKMM0OThKA79HGQKs5YU9jdlDFYkD5MEfU=s900-c-k-c0x00ffffff-no-rj",
     "streamUrl": "http://103.78.149.54:8000/play/a01u/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "94162738",
-    "name": "Sankhya TV HD",
-    "iconUrl": "https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png",
-    "streamUrl": "https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
@@ -1400,14 +1384,6 @@
     "categoryName": "Religious"
   },
   {
-    "id": "47293816",
-    "name": "Sanskar Web TV HD",
-    "iconUrl": "https://i.imgur.com/mu2B6hw.png",
-    "streamUrl": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
     "id": "15863742",
     "name": "Satsang TV HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png",
@@ -1420,6 +1396,30 @@
     "name": "Satsang Web TV HD",
     "iconUrl": "https://i.imgur.com/40kNu1w.png",
     "streamUrl": "https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "94162738",
+    "name": "Sankhya TV HD",
+    "iconUrl": "https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png",
+    "streamUrl": "https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+   {
+    "id": "42681937",
+    "name": "Paras Gold",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png",
+    "streamUrl": "https://mumt04.tangotv.in/PARASGOLD/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "71359284",
+    "name": "Peace Of Mind TV",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png",
+    "streamUrl": "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
