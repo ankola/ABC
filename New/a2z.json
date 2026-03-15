@@ -424,14 +424,6 @@
     "categoryName": "Entertainment"
   },
   {
-    "id": "16",
-    "name": "Manoranjan Grand",
-    "iconUrl": "https://manoranjantv.com/images/cat/1.jpg",
-    "streamUrl": "http://103.175.73.12:8080/live/19/19_0.m3u8",
-    "categoryId": "hindi_entertainment",
-    "categoryName": "Entertainment"
-  },
-  {
     "id": "72946183",
     "name": "Zee TV HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
@@ -1140,6 +1132,14 @@
     "name": "Zoo Moo",
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbk7O85bckgZHWM3Rq8oHgjqP6QB78wkmJr2-xTXcdvQoHNb7C6g7l2x3Xgo_255A9LB2P1tuy5a7SFMBOzRYHtLm9e1n2LW2kiaT69AgxJDgLbrwvh2VyJjn1_i2IHQYvc8oSvKV5lUQ/s1600/zoomoologo.jpg",
     "streamUrl": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "categoryId": "cartoon",
+    "categoryName": "Cartoon"
+  },
+    {
+    "id": "16",
+    "name": "Manoranjan Grand",
+    "iconUrl": "https://manoranjantv.com/images/cat/1.jpg",
+    "streamUrl": "http://103.175.73.12:8080/live/19/19_0.m3u8",
     "categoryId": "cartoon",
     "categoryName": "Cartoon"
   },
