@@ -128,6 +128,14 @@
     "categoryName": "Movies"
   },
    {
+    "id": "3",
+    "name": "Star Utsav Movies",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN8Df7ooHFvmFRFrrGlMt_K_aWYmgFunOXg&s",
+    "streamUrl": "http://103.175.73.12:8080/live/42/42_0.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+   {
     "id": "62918430",
     "name": "&Pictures HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPICTURES/images/LOGO_HD/LOGO_HD_image.png",
@@ -316,14 +324,6 @@
     "name": "Star Utsav Movies",
     "iconUrl": "https://i.imgur.com/k5QHfH2.png",
     "streamUrl": "http://103.78.149.54:8000/play/a00m/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "3",
-    "name": "Star Utsav Movies",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN8Df7ooHFvmFRFrrGlMt_K_aWYmgFunOXg&s",
-    "streamUrl": "http://103.175.73.12:8080/live/42/42_0.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
