@@ -624,6 +624,14 @@
     "categoryName": "English Entertainment"
   },
   {
+    "id": "10000013",
+    "name": "India TV Speed News HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS/images/LOGO_HD/image.png",
+    "streamUrl": "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8",
+    "categoryId": "news",
+    "categoryName": "News"
+  },
+  {
     "id": "17",
     "name": "Aaj Tak HD",
     "iconUrl": "https://play-lh.googleusercontent.com/t8I2oBJs_VLgtz3SCJgf1_qotB7PetRQSVlT8KaHyNq9I_LPILOcQNDq44AARftBgbyV",
@@ -632,18 +640,18 @@
     "categoryName": "News"
   },
   {
-    "id": "19",
-    "name": "NDTV Hindi",
-    "iconUrl": "https://yt3.googleusercontent.com/W0jgozFNuPBCryjPuZyN4Eh-iWbPBjWzp2FkOea0Y9n_j07sxCB0ZDO1SAXGmDnp9yd8-t25PQ=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+    "id": "10000036",
+    "name": "Zee News HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
     "categoryId": "news",
     "categoryName": "News"
   },
   {
-    "id": "10000002",
-    "name": "ABP Ganga HD",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png",
-    "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8",
+    "id": "19",
+    "name": "NDTV Hindi",
+    "iconUrl": "https://yt3.googleusercontent.com/W0jgozFNuPBCryjPuZyN4Eh-iWbPBjWzp2FkOea0Y9n_j07sxCB0ZDO1SAXGmDnp9yd8-t25PQ=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
     "categoryId": "news",
     "categoryName": "News"
   },
@@ -696,14 +704,6 @@
     "categoryName": "News"
   },
   {
-    "id": "10000013",
-    "name": "India TV Speed News HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS/images/LOGO_HD/image.png",
-    "streamUrl": "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8",
-    "categoryId": "news",
-    "categoryName": "News"
-  },
-  {
     "id": "10000018",
     "name": "News18 India HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png",
@@ -732,6 +732,14 @@
     "name": "Sudarshan News HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS/images/LOGO_HD/image.png",
     "streamUrl": "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8",
+    "categoryId": "news",
+    "categoryName": "News"
+  },
+   {
+    "id": "10000002",
+    "name": "ABP Ganga HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png",
+    "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8",
     "categoryId": "news",
     "categoryName": "News"
   },
@@ -772,14 +780,6 @@
     "name": "Zee Bharat",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/LOGO_HD_image.png",
     "streamUrl": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
-    "categoryId": "news",
-    "categoryName": "News"
-  },
-  {
-    "id": "10000036",
-    "name": "Zee News HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png",
-    "streamUrl": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
     "categoryId": "news",
     "categoryName": "News"
   },
