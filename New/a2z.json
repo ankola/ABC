@@ -840,14 +840,6 @@
     "categoryName": "Gujarati News"
   },
   {
-    "id": "18",
-    "name": "India Today",
-    "iconUrl": "https://play-lh.googleusercontent.com/XKVQpIEEGbjxsX5CFatbRv5b0FMMYJ9bYkhjFa0_XFaOG5iAu4Qz9aWFyK5yOe7R0n0",
-    "streamUrl": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
-    "categoryId": "english_news",
-    "categoryName": "English News"
-  },
-  {
     "id": "20",
     "name": "WION",
     "iconUrl": "https://play-lh.googleusercontent.com/8uD2Vq_A-isGSlUgfIIRBZUD47fpZPfOb1QwQEwOWJgkxymEbSClBiCnt6lGNAEkgh0=w240-h480-rw",
@@ -892,6 +884,14 @@
     "name": "Times Now",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW/images/LOGO_HD/image.png",
     "streamUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
+    "categoryId": "english_news",
+    "categoryName": "English News"
+  },
+   {
+    "id": "18",
+    "name": "India Today",
+    "iconUrl": "https://play-lh.googleusercontent.com/XKVQpIEEGbjxsX5CFatbRv5b0FMMYJ9bYkhjFa0_XFaOG5iAu4Qz9aWFyK5yOe7R0n0",
+    "streamUrl": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
     "categoryId": "english_news",
     "categoryName": "English News"
   },
