@@ -176,6 +176,14 @@
     "categoryName": "Movies"
   },
   {
+    "id": "38472910",
+    "name": "Zee Action",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "http://103.78.149.54:8000/play/a005/index.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
     "id": "67392015",
     "name": "Star Gold 2",
     "iconUrl": "https://i.imgur.com/G0ZfzZr.png",
@@ -196,14 +204,6 @@
     "name": "Star Gold Thrills",
     "iconUrl": "https://i.imgur.com/azqtpYh.png",
     "streamUrl": "http://161.248.38.40:8000/play/a06v/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-  {
-    "id": "38472910",
-    "name": "Zee Action",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-    "streamUrl": "http://103.78.149.54:8000/play/a005/index.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
