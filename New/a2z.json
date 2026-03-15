@@ -1320,30 +1320,6 @@
     "categoryName": "Religious"
   },
   {
-    "id": "73628194",
-    "name": "Anand TV",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png",
-    "streamUrl": "https://live.legitpro.co.in/anandtv/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "23748916",
-    "name": "Darshan 24",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png",
-    "streamUrl": "https://mumt05.tangotv.in/DARSHAN24/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "89423617",
-    "name": "Jinvani Channel",
-    "iconUrl": "https://i.imgur.com/lztyGVi.png",
-    "streamUrl": "https://cdn-2.pishow.tv/live/989/master.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
     "id": "27483619",
     "name": "Sanskar TV HD",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png",
@@ -1400,6 +1376,38 @@
     "categoryName": "Religious"
   },
   {
+    "id": "73628194",
+    "name": "Anand TV",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png",
+    "streamUrl": "https://live.legitpro.co.in/anandtv/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "23748916",
+    "name": "Darshan 24",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png",
+    "streamUrl": "https://mumt05.tangotv.in/DARSHAN24/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
+    "id": "89423617",
+    "name": "Jinvani Channel",
+    "iconUrl": "https://i.imgur.com/lztyGVi.png",
+    "streamUrl": "https://cdn-2.pishow.tv/live/989/master.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+   {
+    "id": "71359284",
+    "name": "Peace Of Mind TV",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png",
+    "streamUrl": "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8",
+    "categoryId": "religious",
+    "categoryName": "Religious"
+  },
+  {
     "id": "94162738",
     "name": "Sankhya TV HD",
     "iconUrl": "https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png",
@@ -1412,14 +1420,6 @@
     "name": "Paras Gold",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png",
     "streamUrl": "https://mumt04.tangotv.in/PARASGOLD/index.m3u8",
-    "categoryId": "religious",
-    "categoryName": "Religious"
-  },
-  {
-    "id": "71359284",
-    "name": "Peace Of Mind TV",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png",
-    "streamUrl": "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8",
     "categoryId": "religious",
     "categoryName": "Religious"
   },
