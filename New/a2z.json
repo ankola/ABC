@@ -664,6 +664,14 @@
     "categoryName": "News"
   },
   {
+    "id": "10000018",
+    "name": "News18 India HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
+    "categoryId": "news",
+    "categoryName": "News"
+  },
+  {
     "id": "10000004",
     "name": "Awaaz India TV",
     "iconUrl": "https://i.imgur.com/eKQs51V.png",
@@ -700,22 +708,6 @@
     "name": "India TV",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png",
     "streamUrl": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
-    "categoryId": "news",
-    "categoryName": "News"
-  },
-  {
-    "id": "10000018",
-    "name": "News18 India HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png",
-    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
-    "categoryId": "news",
-    "categoryName": "News"
-  },
-  {
-    "id": "10000019",
-    "name": "News Daily 24",
-    "iconUrl": "https://i.imgur.com/lT8rihP.png",
-    "streamUrl": "https://cdn-6.pishow.tv/live/10009/master.m3u8",
     "categoryId": "news",
     "categoryName": "News"
   },
@@ -760,6 +752,14 @@
     "categoryName": "News"
   },
   {
+    "id": "10000035",
+    "name": "Zee Bharat",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/LOGO_HD_image.png",
+    "streamUrl": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
+    "categoryId": "news",
+    "categoryName": "News"
+  },
+  {
     "id": "10000031",
     "name": "TV9 HD",
     "iconUrl": "https://i.imgur.com/QFteAgd.png",
@@ -772,14 +772,6 @@
     "name": "VTV News",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png",
     "streamUrl": "http://103.78.149.54:8000/play/a03m/index.m3u8",
-    "categoryId": "news",
-    "categoryName": "News"
-  },
-  {
-    "id": "10000035",
-    "name": "Zee Bharat",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/LOGO_HD_image.png",
-    "streamUrl": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
     "categoryId": "news",
     "categoryName": "News"
   },
