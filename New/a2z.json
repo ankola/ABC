@@ -912,6 +912,62 @@
     "categoryName": "English News"
   },
    {
+    "id": "21",
+    "name": "9XM",
+    "iconUrl": "https://yt3.googleusercontent.com/a5SfL3aMu1G_MufbVoDv0wPz4gcyn_pYtsR3BAMH08B368gh-ytxzBWgPpdmKyWemwCGF0Ql=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "http://103.175.73.12:8080/live/155/155_0.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "25",
+    "name": "YRF Music HD",
+    "iconUrl": "https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "34782910",
+    "name": "Zoom",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+    "streamUrl": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "23",
+    "name": "Music India",
+    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nLdCAaH9x9Vf9sYm4vjY49sOL7PbDxf8dlAU1H5p-49A=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "http://103.175.73.12:8080/live/158/158_0.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "24",
+    "name": "9X Jalwa",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzeAjeYZEumMie4CYeiouLkA4yU2QODPVkA&s",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "57conductors",
+    "name": "Zoom Global",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+    "streamUrl": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
+    "id": "81623749",
+    "name": "Shemaroo Filmigaane",
+    "iconUrl": "https://yt3.googleusercontent.com/IZPkATp1E7hxHlLWSCR0mo7dQRgAiV2VV-FBC_F5CUn58SnuzlnKHYG-QhQc105E-g3hXuWmxQ=w544-c-h544-k-c0x00ffffff-no-l90-rj",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8?ads.vf=XvjJifm4b-C",
+    "categoryId": "music",
+    "categoryName": "Music"
+  },
+  {
     "id": "64729183",
     "name": "Balle Balle",
     "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
@@ -944,66 +1000,10 @@
     "categoryName": "Music"
   },
   {
-    "id": "21",
-    "name": "9XM",
-    "iconUrl": "https://yt3.googleusercontent.com/a5SfL3aMu1G_MufbVoDv0wPz4gcyn_pYtsR3BAMH08B368gh-ytxzBWgPpdmKyWemwCGF0Ql=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "http://103.175.73.12:8080/live/155/155_0.m3u8",
-    "categoryId": "music",
-    "categoryName": "Music"
-  },
-  {
     "id": "22",
     "name": "B4U Music",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
     "streamUrl": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8",
-    "categoryId": "music",
-    "categoryName": "Music"
-  },
-  {
-    "id": "23",
-    "name": "Music India",
-    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nLdCAaH9x9Vf9sYm4vjY49sOL7PbDxf8dlAU1H5p-49A=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "http://103.175.73.12:8080/live/158/158_0.m3u8",
-    "categoryId": "music",
-    "categoryName": "Music"
-  },
-  {
-    "id": "24",
-    "name": "9X Jalwa",
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzeAjeYZEumMie4CYeiouLkA4yU2QODPVkA&s",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8",
-    "categoryId": "music",
-    "categoryName": "Music"
-  },
-  {
-    "id": "25",
-    "name": "YRF Music HD",
-    "iconUrl": "https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj",
-    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
-    "categoryId": "music",
-    "categoryName": "Music"
-  },
-  {
-    "id": "34782910",
-    "name": "Zoom",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
-    "streamUrl": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
-    "categoryId": "music",
-    "categoryName": "Music"
-  },
-  {
-    "id": "57conductors",
-    "name": "Zoom Global",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
-    "streamUrl": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
-    "categoryId": "music",
-    "categoryName": "Music"
-  },
-  {
-    "id": "81623749",
-    "name": "Shemaroo Filmigaane",
-    "iconUrl": "https://yt3.googleusercontent.com/IZPkATp1E7hxHlLWSCR0mo7dQRgAiV2VV-FBC_F5CUn58SnuzlnKHYG-QhQc105E-g3hXuWmxQ=w544-c-h544-k-c0x00ffffff-no-l90-rj",
-    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8?ads.vf=XvjJifm4b-C",
     "categoryId": "music",
     "categoryName": "Music"
   },
