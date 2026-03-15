@@ -864,26 +864,10 @@
     "categoryName": "English News"
   },
   {
-    "id": "10000021",
-    "name": "NewsX World HD",
-    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/News_X_World.png",
-    "streamUrl": "https://newsxott.in/hls/newsxworld.m3u8",
-    "categoryId": "english_news",
-    "categoryName": "English News"
-  },
-  {
     "id": "10000014",
     "name": "LiveNOW from FOX",
     "iconUrl": "https://i.imgur.com/1JnyzHv.png",
     "streamUrl": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "categoryId": "english_news",
-    "categoryName": "English News"
-  },
-  {
-    "id": "10000006",
-    "name": "BBC News HD",
-    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "streamUrl": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd",
     "categoryId": "english_news",
     "categoryName": "English News"
   },
@@ -908,6 +892,22 @@
     "name": "Times Now",
     "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW/images/LOGO_HD/image.png",
     "streamUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
+    "categoryId": "english_news",
+    "categoryName": "English News"
+  },
+   {
+    "id": "10000006",
+    "name": "BBC News HD",
+    "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "streamUrl": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd",
+    "categoryId": "english_news",
+    "categoryName": "English News"
+  },
+  {
+    "id": "10000021",
+    "name": "NewsX World HD",
+    "iconUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/News_X_World.png",
+    "streamUrl": "https://newsxott.in/hls/newsxworld.m3u8",
     "categoryId": "english_news",
     "categoryName": "English News"
   },
