@@ -112,6 +112,14 @@
     "categoryName": "Movies"
   },
   {
+    "id": "36814729",
+    "name": "Zee Cine Classic",
+    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
+    "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "categoryId": "hindi_movies",
+    "categoryName": "Movies"
+  },
+  {
     "id": "25741893",
     "name": "All Time Movies",
     "iconUrl": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
@@ -148,14 +156,6 @@
     "name": "Star Gold Select HD",
     "iconUrl": "https://i.imgur.com/U7eiuqv.png",
     "streamUrl": "http://103.229.254.25:7001/play/a032/index.m3u8",
-    "categoryId": "hindi_movies",
-    "categoryName": "Movies"
-  },
-   {
-    "id": "36814729",
-    "name": "Zee Cine Classic",
-    "iconUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
-    "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
     "categoryId": "hindi_movies",
     "categoryName": "Movies"
   },
